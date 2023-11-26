@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tools on Software As Craft</title><link>https://www.softwareascraft.com/tags/tools/</link><description>Recent content in Tools on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Sun, 02 Apr 2023 14:56:39 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/tags/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Collaborative Programming... Remotely!</title><link>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</link><pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><guid>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</guid><description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Software As Craft</title>
+    <link>https://www.softwareascraft.com/tags/tools/</link>
+    <description>Recent content in Tools on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Sun, 02 Apr 2023 14:56:39 -0900</lastBuildDate>
+    <atom:link href="https://www.softwareascraft.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaborative Programming... Remotely!</title>
+      <link>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</guid>
+      <description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work.</description>
+    </item>
+  </channel>
+</rss>
