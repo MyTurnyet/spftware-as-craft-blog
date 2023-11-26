@@ -6,6 +6,7 @@
     HUGO_VERSION = "0.120.4"
 
 [build]
+    package = "/config/_default"
     publish = "public"
     command = "hugo --minify --buildFuture"
 [build.environment]
