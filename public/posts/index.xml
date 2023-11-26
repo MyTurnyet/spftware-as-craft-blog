@@ -1,3 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Software As Craft</title><link>https://www.softwareascraft.com/posts/</link><description>Recent content in Posts on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Thoughts on Interviewing: II</title><link>https://www.softwareascraft.com/posts/thoughtsoninterviewing-2/</link><pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><guid>https://www.softwareascraft.com/posts/thoughtsoninterviewing-2/</guid><description>In the first part of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process.</description></item><item><title>Thoughts on Interviewing: I</title><link>https://www.softwareascraft.com/posts/thoughtsoninterviewing-1/</link><pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate><guid>https://www.softwareascraft.com/posts/thoughtsoninterviewing-1/</guid><description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry.</description></item><item><title>Creating a Culture of Learning</title><link>https://www.softwareascraft.com/posts/creatingacultureoflearning/</link><pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><guid>https://www.softwareascraft.com/posts/creatingacultureoflearning/</guid><description>Stop me if you’ve heard this before:
-CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?</description></item><item><title>On Software as Craft</title><link>https://www.softwareascraft.com/posts/onsoftwareascraft/</link><pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate><guid>https://www.softwareascraft.com/posts/onsoftwareascraft/</guid><description>As A Craft &amp;nbsp; I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.</description></item><item><title>Collaborative Programming... Remotely!</title><link>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</link><pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><guid>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</guid><description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work.</description></item><item><title>The Six-Minute Interview</title><link>https://www.softwareascraft.com/posts/sixminuteinterview/</link><pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate><guid>https://www.softwareascraft.com/posts/sixminuteinterview/</guid><description>First, the &amp;ldquo;Why&amp;rdquo; &amp;nbsp; This interview challenge is based on the six minute interview created by Llewellyn Falco.
-The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Software As Craft</title>
+    <link>https://www.softwareascraft.com/posts/</link>
+    <description>Recent content in Posts on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
+    <atom:link href="https://www.softwareascraft.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Interviewing: II</title>
+      <link>https://www.softwareascraft.com/posts/thoughtsoninterviewing-2/</link>
+      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/thoughtsoninterviewing-2/</guid>
+      <description>In the first part of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process.</description>
+    </item>
+    <item>
+      <title>Thoughts on Interviewing: I</title>
+      <link>https://www.softwareascraft.com/posts/thoughtsoninterviewing-1/</link>
+      <pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/thoughtsoninterviewing-1/</guid>
+      <description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry.</description>
+    </item>
+    <item>
+      <title>Creating a Culture of Learning</title>
+      <link>https://www.softwareascraft.com/posts/creatingacultureoflearning/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/creatingacultureoflearning/</guid>
+      <description>Stop me if you’ve heard this before:
+CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?</description>
+    </item>
+    <item>
+      <title>On Software as Craft</title>
+      <link>https://www.softwareascraft.com/posts/onsoftwareascraft/</link>
+      <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/onsoftwareascraft/</guid>
+      <description>As A Craft &amp;nbsp; I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.</description>
+    </item>
+    <item>
+      <title>Collaborative Programming... Remotely!</title>
+      <link>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</guid>
+      <description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work.</description>
+    </item>
+    <item>
+      <title>The Six-Minute Interview</title>
+      <link>https://www.softwareascraft.com/posts/sixminuteinterview/</link>
+      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/sixminuteinterview/</guid>
+      <description>First, the &amp;ldquo;Why&amp;rdquo; &amp;nbsp; This interview challenge is based on the six minute interview created by Llewellyn Falco.
+The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.</description>
+    </item>
+  </channel>
+</rss>

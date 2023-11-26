@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quality on Software As Craft</title><link>https://www.softwareascraft.com/tags/quality/</link><description>Recent content in Quality on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Mon, 03 Apr 2023 14:42:01 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/tags/quality/index.xml" rel="self" type="application/rss+xml"/><item><title>On Software as Craft</title><link>https://www.softwareascraft.com/posts/onsoftwareascraft/</link><pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate><guid>https://www.softwareascraft.com/posts/onsoftwareascraft/</guid><description>As A Craft &amp;nbsp; I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality on Software As Craft</title>
+    <link>https://www.softwareascraft.com/tags/quality/</link>
+    <description>Recent content in Quality on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Mon, 03 Apr 2023 14:42:01 -0900</lastBuildDate>
+    <atom:link href="https://www.softwareascraft.com/tags/quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Software as Craft</title>
+      <link>https://www.softwareascraft.com/posts/onsoftwareascraft/</link>
+      <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/onsoftwareascraft/</guid>
+      <description>As A Craft &amp;nbsp; I self-identify as a &amp;ldquo;Software Crafter&amp;rdquo;. I believe that the creation of software is a complex endeavor, more akin to an artists work, than that of a plumber, electrician or factory worker.</description>
+    </item>
+  </channel>
+</rss>
