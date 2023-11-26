@@ -1,0 +1,46 @@
+[main]
+    paginate = 9
+    separator = "-"
+    enableDarkMode = true
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    endorse = true
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+
+    [main.externalLinks]
+        cue = false
+        tab = false
+
+[home]
+    sections = ["posts"]
+    fullCover = false
+    centerHeadline = false
+    style = "background-color:green;"
+    [home.feature]
+        orientation = "horizontal"
+        color = "secondary"
+        width = 6
+        align = "start"
+
+# toml-docs-start navigation
+[navigation]
+    anchor = true
+    logo = "/img/anvil.png"
+    color = "body"
+    fixed = true
+    horizontal = false
+    offset = "5.5rem"
+    search = true
+    searchModal = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+# toml-docs-end navigation
+
+[favicon]
+    logo = "/img/anvil.png"
+    sizes = [16, 32, 48]
+
