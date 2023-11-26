@@ -1,21 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Culture on Software As Craft</title>
-    <link>https://www.softwareascraft.com/tags/culture/</link>
-    <description>Recent content in Culture on Software As Craft</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
-    <lastBuildDate>Sun, 09 Apr 2023 15:00:26 -0900</lastBuildDate>
-    <atom:link href="https://www.softwareascraft.com/tags/culture/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creating a Culture of Learning</title>
-      <link>https://www.softwareascraft.com/posts/creatingacultureoflearning/</link>
-      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
-      <guid>https://www.softwareascraft.com/posts/creatingacultureoflearning/</guid>
-      <description>Stop me if you’ve heard this before:
-CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Culture on Software As Craft</title><link>https://www.softwareascraft.com/tags/culture/</link><description>Recent content in Culture on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Sun, 09 Apr 2023 15:00:26 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/tags/culture/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating a Culture of Learning</title><link>https://www.softwareascraft.com/posts/creatingacultureoflearning/</link><pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><guid>https://www.softwareascraft.com/posts/creatingacultureoflearning/</guid><description>Stop me if you’ve heard this before:
+CFO says: &amp;ldquo;What if we pay to train our employees, and they leave the company?</description></item></channel></rss>

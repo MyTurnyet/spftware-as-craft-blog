@@ -1,8 +1,8 @@
 ---
 title: "Fluid Scaling Technology and Open Space"
-date: 2023-11-26 12:26:35 -0900
+date: 2023-11-26 11:26:35 -0900
 draft: false
-toc: true
+toc: false
 thumbnail:
     url: /img/fast-blur.png
     author: Paige Watson
