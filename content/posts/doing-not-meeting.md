@@ -10,10 +10,10 @@ thumbnail:
     originName: Unsplash
 
 tags:
-  - Agility
-  - Fluid Scaling Technology
-  - Process Improvement
-  - Productivity
+- Agility
+- Fluid Scaling Technology
+- Process Improvement
+- Productivity
 ---
 "We don't want a meeting!" This was my response when a team I was working on was told that someone from the UI team would be able to meet with us for an hour "sometime tomorrow."
 
