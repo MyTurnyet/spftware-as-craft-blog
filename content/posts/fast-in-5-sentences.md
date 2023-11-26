@@ -16,8 +16,6 @@ Fluid Scaling Technology in 5 Sentences
 A TL;DR introduction to Fluid Scaling Technology (FaST).\
 You can read more about FaST in the [FaST Guide](https://www.fastagile.io/fast-guide), but here's a (very) simple overview of the process.
 
-{{< image src="img/fast-infographic.jpg" class="rounded" >}}
-
 1 - Bring everyone together to work as a Collective.
 ----------------------------------------------------
 
