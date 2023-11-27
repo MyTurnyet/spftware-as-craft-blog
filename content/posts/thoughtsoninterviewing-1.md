@@ -2,7 +2,7 @@
 title: "Thoughts on Interviewing: I"
 date: 2023-04-12 07:30:35 -0900
 draft: false
-toc: false
+description: Our interview process is broken.  Here's the first in a two-part series on my observations and ideas to fix the process.
 thumbnail:
   url: /img/interviewing-1.jpg
   author: Amy Hirschi

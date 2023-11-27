@@ -2,7 +2,7 @@
 title: "Thoughts on Interviewing: II"
 date: 2023-04-13 07:30:35 -0900
 draft: false
-toc: false
+description: Our interview process is broken.  Here's the second in a two-part series on my observations and ideas to fix the process.
 thumbnail:
     url: /img/interviewing-2.jpg
     author: Cytonn Photogrphy
