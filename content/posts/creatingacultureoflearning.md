@@ -2,7 +2,7 @@
 title: Creating a Culture of Learning
 date: 2023-04-09 15:00:26 -0900
 draft: false
-toc: true
+description: Companies can do better to encourage learning and growth of their employees.
 thumbnail:
     url: /img/two-women.jpg
     author: Christina
@@ -75,14 +75,14 @@ And then, one day we decided to try another experiment. We decided to go beyond 
 personal learning time, and we decided to try learning together.
 
 We set up a learning marketplace, much like an Open Space marketplace, and allowed team members to put ideas into the
-marketplace. The idea didn’t have to be directly connected to production work.
+marketplace. The idea didn't have to be directly connected to production work.
 
-Some of the learning ideas we had were:
+Some learning ideas we had were:
 
 * Learn the basics of another language (Go, Elixir, F#, etc.)
-* What is a micro-service?
-* Can we create a micro-service in Azure using Azure Function apps
-* How do we create a dashboard for our web services without having to log-in to Azure
+* What is a microservice?
+* Can we create a microservice in Azure using Azure Function apps
+* How do we create a dashboard for our web services without having to log into Azure
 * What is Mob Programming?
 * How do you create a Siri/Cortana/Alexa skill and what could we use it for?
 
@@ -92,7 +92,7 @@ returned to the marketplace board, and each team would report the outcome of the
 only allowed us to gain knowledge, but it also allowed us to innovate. Out of this learning time, the company gained
 numerous ideas that went on to become full projects.
 
-We expanded a team to create a full micro-service architecture for our data service.
+We expanded a team to create a full microservice architecture for our data service.
 
 We created dashboards for visibility and velocity gain.
 
@@ -133,7 +133,7 @@ Experiments are a great way to get buy-in from management, as they are short and
 intervals. At the end of the allotted time, remember to have a retrospective and discuss what you learned, and whether
 the experiment was a success, and whether to continue it, re-frame it, or stop it.
 
-### Learn As A Team
+### Learn as a Team
 
 No matter how you take time to learn, take time to learn as a team. The benefits you and the rest of the team will
 recognize will be significant and long-lasting.
