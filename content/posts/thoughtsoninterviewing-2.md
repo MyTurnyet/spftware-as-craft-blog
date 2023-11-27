@@ -90,7 +90,7 @@ company that values getting it done quickly over getting it done correctly.
 The crux of this idea is: We should not be giving timed challenges. Candidates should be asked to complete a project
 using their best practices to ensure it is maintainable, extensible, bug-free, and finished.
 
-### Use a repository
+### Use A Repository
 
 Asking them to provide a link to the code repository will enable us to view the process of software development from the
 candidates point of view. We can look at commit history, and the evolution of the project. We can see how often they
@@ -145,7 +145,7 @@ not to use the phrase "Tell me about a time when..." Most candidates have a read
 for this question. You may still get the pre-formatted answer if you ask a question in another way, but it may be enough
 to nudge the candidate toward a more genuine reply.
 
-### Don't make it a test of mental toughness
+### Don't make it a Test of Mental Toughness
 
 Many people I've met talk about an interview as a time to really stress a candidate. This will "show how they work under
 pressure". This is a horrible idea. Why do we feel this is necessary? If your team is under so much pressure that you
