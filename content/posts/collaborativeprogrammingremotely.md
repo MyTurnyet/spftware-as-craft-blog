@@ -2,7 +2,7 @@
 title: Collaborative Programming... Remotely!
 date: 2023-04-02 14:56:39 -0900
 draft: false
-toc: true
+description: Here are some great practices for collaborative programming on a remote team.
 thumbnail:
     url: /img/remote-work.jpg
     author: Kristing Wilson
