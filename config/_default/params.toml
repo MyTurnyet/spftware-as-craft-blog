@@ -10,8 +10,8 @@
     breakpoint = "md"
 
     [main.externalLinks]
-        cue = false
-        tab = false
+        cue = true
+        tab = true
 
 [home]
     sections = ["posts"]
@@ -39,6 +39,7 @@
     sidebar = true
     size = "md"
 # toml-docs-end navigation
+
 
 [favicon]
     logo = "/img/anvil.png"

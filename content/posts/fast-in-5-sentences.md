@@ -1,4 +1,5 @@
 ---
+author: Paige Watson
 title: 'FaST in 5 Sentences'
 date: 2023-10-03T15:03:28-08:00
 draft: false
