@@ -1,0 +1,28 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://www.linkedin.com/in/paige-is-xp/"
+  weight = 10
+
+[[social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com/MyTurnyet"
+  weight = 20
+
+[[social]]
+  name = "Mastodon"
+  pre = "fab mastodon"
+  url = "https://techhub.social/@paigewatson"
+  weight = 30
+
+[[social]]
+name = "Calendar"
+pre = "fa calendar-plus"
+url = "https://calendly.com/paige-watson"
+weight = 50

@@ -14,7 +14,7 @@
         tab = true
 
 [home]
-    sections = ["posts"]
+    sections = ["posts", "talks"]
     fullCover = false
     centerHeadline = false
     style = "background-color:green;"

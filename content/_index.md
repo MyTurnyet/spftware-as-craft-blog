@@ -1,5 +1,4 @@
 ---
-author: Paige Watson
-title: 'Software As Craft'
+title: Software As Craft
 description: "Thoughts how we build software, and the effects on our industry."
 ---
