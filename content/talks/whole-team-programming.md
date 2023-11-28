@@ -1,20 +1,20 @@
 ---
-title: Whole Team Pregramming Workshop
+title: Whole Team Programming Workshop
 date: 2023-04-09 15:00:26 -0900
 draft: false
 description: Learn to effectively collaborate with your team to create quality software.
 thumbnail:
-    url: /img/football-practice.jpg
-    author: Ben Hershey
-    authorURL: https://unsplash.com/@benhershey
-    origin: https://unsplash.com/photos/people-playing-football-f6UzEHe5qf4
+    url: /img/collaboration.jpg
+    author: Austin Distel
+    authorURL: https://unsplash.com/@austindistel
+    origin: https://unsplash.com/photos/three-men-sitting-on-chair-beside-tables-mpN7xjKQ_Ns
     originName: Unsplash
 
 tags:
+- Continuous Improvement
 - Learning
 - Teams
 - Culture
-- Continuous Improvement
 ---
 ## Whole Team Programming
 
