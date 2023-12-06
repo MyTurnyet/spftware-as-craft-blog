@@ -1,5 +1,5 @@
 ---
-title: Whole Team Programming Workshop
+title: Team Programming - Conference Workshop
 date: 2023-04-09 15:00:26 -0900
 draft: false
 description: Learn to effectively collaborate with your team to create quality software.
@@ -16,7 +16,7 @@ tags:
 - Teams
 - Culture
 ---
-## Whole Team Programming
+## Team Programming - Conference Workshop
 
 Whole Team Programming, also known as _Mobbing_, or _Ensemble Programming_, is a practice of whole-team collaboration
 that
