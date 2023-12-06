@@ -14,13 +14,13 @@
         tab = true
 
 [home]
-    sections = ["posts", "talks"]
+    sections = ["workshops","posts", "talks"]
     fullCover = false
     centerHeadline = false
-    style = "background-color:green;"
+    style = ""
     [home.feature]
         orientation = "horizontal"
-        color = "secondary"
+        color = "primary"
         width = 6
         align = "start"
 

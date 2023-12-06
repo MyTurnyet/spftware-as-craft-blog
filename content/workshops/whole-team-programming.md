@@ -4,11 +4,11 @@ date: 2023-04-09 15:00:26 -0900
 draft: false
 description: Learn to effectively collaborate with your team to create quality software.
 thumbnail:
-    url: /img/collaboration.jpg
-    author: Austin Distel
-    authorURL: https://unsplash.com/@austindistel
-    origin: https://unsplash.com/photos/three-men-sitting-on-chair-beside-tables-mpN7xjKQ_Ns
-    originName: Unsplash
+    url: /img/team-programming.jpg
+    author: Drazen Zigic
+    authorURL: https://www.freepik.com/author/drazenzigic
+    origin: https://img.freepik.com/free-photo/young-startup-team-celebrating-business-success-while-using-computer-office_637285-2688.jpg?w=1380&t=st=1701822463~exp=1701823063~hmac=9a430d379209550edd14e811826a5c0f341c393796134efe8ea983bfaaa0b18e
+    originName: FreePik
 
 tags:
 - Continuous Improvement

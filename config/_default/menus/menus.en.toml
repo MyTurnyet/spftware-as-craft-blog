@@ -3,6 +3,7 @@
   pageRef = "/"
   weight = 10
 
+
 [[social]]
   name = "LinkedIn"
   pre = "fab linkedin"
