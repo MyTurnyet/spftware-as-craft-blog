@@ -20,7 +20,7 @@ tags:
 
 ## First, the "Why"
 
-This interview challenge is based on the six-minute interview created by [Llewellyn Falco][Llewellyn-Falco-GitHub].
+This interview challenge is based on the six-minute interview created by {{< link llewelyn-falco-li >}}Llewellyn Falco{{< /link >}}.
 
 The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the
 candidate understands certain principles of development.
@@ -107,10 +107,6 @@ Here are a list of things to look for when administering this during an intervie
 - Did they make sure the tests passed before and after refactoring?
 
 **Closing notes**  
-Several versions of this challenge are available from [my Github repository][My-GitHub].
+Several versions of this challenge are available from {{< link myturnyet-github >}}my GitHub repository{{< /link >}}.
 
-These examples are based on the code originally written by [Llewellyn Falco][Llewellyn-Falco-GitHub].
-
-[Llewellyn-Falco-GitHub]:https://github.com/isidore
-
-[My-GitHub]:https://github.com/MyTurnyet
+These examples are based on the code originally written by {{< link llewelyn-falco-li >}}Llewellyn Falco{{< /link >}} in {{< link llewelyn-falco-github >}}his GitHub repository{{< /link >}}.
