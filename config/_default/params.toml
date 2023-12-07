@@ -45,3 +45,12 @@
     logo = "/img/anvil.png"
     sizes = [16, 32, 48]
 
+
+# toml-docs-start managed-links
+[links]
+    llewelyn-falco-li = "https://www.linkedin.com/in/llewellynfalco"
+    mob-sh = "https://mob.sh"
+    myturnyet-github = "https://github.com/MyTurnyet"
+    myturn-yet-talks = ""
+    remote-mob-programming = "https://remotemobprogramming.org"
+# toml-docs-end managed-links

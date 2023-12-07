@@ -1,7 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resources on Software As Craft</title><link>https://www.softwareascraft.com/resources/</link><description>Recent content in Resources on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Sun, 09 Apr 2023 15:00:26 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Deliberate Practice</title><link>https://www.softwareascraft.com/resources/deliberate-practice-resources/</link><pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><guid>https://www.softwareascraft.com/resources/deliberate-practice-resources/</guid><description>Resources for The ROI of Deliberate Practice &amp;nbsp; Paige Watson
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Software As Craft</title>
+    <link>https://www.softwareascraft.com/resources/</link>
+    <description>Recent content in Resources on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Sun, 09 Apr 2023 15:00:26 -0900</lastBuildDate>
+    <atom:link href="https://www.softwareascraft.com/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deliberate Practice</title>
+      <link>https://www.softwareascraft.com/resources/deliberate-practice-resources/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/resources/deliberate-practice-resources/</guid>
+      <description>Resources for The ROI of Deliberate Practice &amp;nbsp; Paige Watson
 &amp;nbsp; : paige@industriallogic.com
 &amp;nbsp; : https://www.linkedin.com/in/paige-is-xp/
-&amp;nbsp; : https://techhub.social/@paigewatson</description></item><item><title>Working The Way We Want</title><link>https://www.softwareascraft.com/resources/working-the-way-we-want-resources/</link><pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate><guid>https://www.softwareascraft.com/resources/working-the-way-we-want-resources/</guid><description>Resources for Working The Way We Want &amp;nbsp; Paige Watson
+&amp;nbsp; : https://techhub.social/@paigewatson</description>
+    </item>
+    <item>
+      <title>Working The Way We Want</title>
+      <link>https://www.softwareascraft.com/resources/working-the-way-we-want-resources/</link>
+      <pubDate>Sun, 09 Apr 2023 15:00:26 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/resources/working-the-way-we-want-resources/</guid>
+      <description>Resources for Working The Way We Want &amp;nbsp; Paige Watson
 &amp;nbsp; : paige@industriallogic.com
 &amp;nbsp; : https://www.linkedin.com/in/paige-is-xp/
-&amp;nbsp; : https://techhub.social/@paigewatson</description></item><item><title/><link>https://www.softwareascraft.com/resources/whole-team-programming-resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.softwareascraft.com/resources/whole-team-programming-resources/</guid><description>title: Whole Team Programming date: 2023-04-09 15:00:26 -0900 layout: docs &amp;nbsp; Resources for Whole Team Programming workshop &amp;nbsp; Paige Watson</description></item></channel></rss>
+&amp;nbsp; : https://techhub.social/@paigewatson</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.softwareascraft.com/resources/whole-team-programming-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.softwareascraft.com/resources/whole-team-programming-resources/</guid>
+      <description>title: Whole Team Programming date: 2023-04-09 15:00:26 -0900 layout: docs &amp;nbsp; Resources for Whole Team Programming workshop &amp;nbsp; Paige Watson</description>
+    </item>
+  </channel>
+</rss>

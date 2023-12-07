@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Interviews on Software As Craft</title><link>https://www.softwareascraft.com/tags/interviews/</link><description>Recent content in Interviews on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Tue, 21 Mar 2023 10:32:01 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/tags/interviews/index.xml" rel="self" type="application/rss+xml"/><item><title>The Six-Minute Interview</title><link>https://www.softwareascraft.com/posts/sixminuteinterview/</link><pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate><guid>https://www.softwareascraft.com/posts/sixminuteinterview/</guid><description>First, the &amp;ldquo;Why&amp;rdquo; &amp;nbsp; This interview challenge is based on the six-minute interview created by Llewellyn Falco.
-The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interviews on Software As Craft</title>
+    <link>https://www.softwareascraft.com/tags/interviews/</link>
+    <description>Recent content in Interviews on Software As Craft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Tue, 21 Mar 2023 10:32:01 -0900</lastBuildDate>
+    <atom:link href="https://www.softwareascraft.com/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Six-Minute Interview</title>
+      <link>https://www.softwareascraft.com/posts/sixminuteinterview/</link>
+      <pubDate>Tue, 21 Mar 2023 10:32:01 -0900</pubDate>
+      <guid>https://www.softwareascraft.com/posts/sixminuteinterview/</guid>
+      <description>First, the &amp;ldquo;Why&amp;rdquo; &amp;nbsp; This interview challenge is based on the six-minute interview created by Llewellyn Falco.
+The idea behind this challenge is not to have the candidate solve the challenge, but to get an idea of whether the candidate understands certain principles of development.</description>
+    </item>
+  </channel>
+</rss>
