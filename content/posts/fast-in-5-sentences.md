@@ -15,8 +15,8 @@ tags:
 ---
 ## Fluid Scaling Technology in 5 Sentences
 
-A TL;DR introduction to Fluid Scaling Technology (FaST).
-You can read more about FaST in the [FaST Guide](https://www.fastagile.io/fast-guide), but here's a (very) simple
+A TL;DR introduction to {{< link fast-io>}}Fluid Scaling Technology{{< /link >}} (_FaST_).
+You can read more about FaST in the {{< link fast-guide >}}FaST Guide{{< /link >}}, but here's a (very) simple
 overview of the process.
 
 ### 1 - Bring everyone together to work as a Collective.
@@ -31,7 +31,7 @@ work, instead of forming teams and giving them work.
 ### 2 - Throw your work on the wall.
 
 Visually represent business goals and all the work in a place that is accessible to anyone who wants to see it. This
-could be a whiteboard, posters on the wall, or [Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/).
+could be a whiteboard, posters on the wall, or {{< link "https://www.katanation.com/single-post/working-with-discovery-trees-by-steve-kuo" >}}Discovery Trees{{< /link >}}.
 It could be on an online whiteboard or tool. Give access to everyone that wants to have access.
 
 This doesn't have to be a heavy process. This can be as simple as a Slack channel that hosts screenshots, or demo

@@ -49,6 +49,7 @@
 # toml-docs-start managed-links
 [links]
     fast-io ="https://fastagile.io"
+    fast-guide = "https://www.fastagile.io/fast-guide"
     llewelyn-falco-li = "https://www.linkedin.com/in/llewellynfalco"
     llewelyn-falco-github = "https://github.com/isidore"
     mob-sh = "https://mob.sh"
