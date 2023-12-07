@@ -48,6 +48,7 @@
 
 # toml-docs-start managed-links
 [links]
+    calendly = "https://calendly.com/paige-watson"
     fast-io ="https://fastagile.io"
     fast-guide = "https://www.fastagile.io/fast-guide"
     llewelyn-falco-li = "https://www.linkedin.com/in/llewellynfalco"
