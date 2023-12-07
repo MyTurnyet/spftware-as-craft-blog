@@ -13,7 +13,6 @@ thumbnail:
 tags:
 - Software as Craft
 - Quality
-
 ---
 
 
@@ -30,8 +29,8 @@ the right actions at the right time to produce efficient, bug-free, and extensib
 practices from the Extreme Programming framework, such as Test-Driven Development, Paired-Programming, and close
 interaction with stakeholders and users.
 
-As my colleague [Quinn Gil](https://quinngil.com/) aptly states in his
-post "[As a Software Engineer](https://quinngil.com/2018/11/11/professional-software-engineer/)", our role as software
+As my colleague {{< link "https://quinngil.com/" >}}Quinn Gil{{< /link >}} aptly states in his
+post "{{< link "https://quinngil.com/2018/11/11/professional-software-engineer/" >}}As a Software Engineer{{< /link >}}", our role as software
 engineers is to maintain and increase the value of the digital assets we’re responsible for. This responsibility necessitates a
 continuous pursuit of quality, where refactoring and testing are as crucial as writing '_production_' code. A project is
 only '_done_' when it has been thoroughly tested and refined to meet quality standards.
