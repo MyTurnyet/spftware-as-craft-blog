@@ -36,7 +36,7 @@ way.
 
 Using skill set will not get you this person. Code challenges will not tell you much about a candidates ability. The
 only real way to know if we are interviewing and hiring the correct person is to work with the candidate. We need to
-learn whether a candidate can work along side of other members of the team.
+learn whether a candidate can work alongside of other members of the team.
 
 Can they communicate effectively?
 Can the candidate use our tools (or learn quickly)?
@@ -49,11 +49,11 @@ Still, a person applying for a job as a software developer needs to know how to 
 
 ## The Six Minute Interview
 
-[Llewellyn Falco][2] developed a challenge for gaining knowledge of a candidates ability in a
-fairly quick way. He calls it '[The Six Minute Interview][3]'. I have written several versions of this challenge and added
+{{< link llewelyn-falco-li >}}Llewellyn Falco{{< /link >}} developed a challenge for gaining knowledge of a candidates ability in a
+fairly quick way. He calls it '[The Six Minute Interview][2]'. I have written several versions of this challenge and added
 them to my personal GitHub repository.
 
-This challenge works best online, and usually can be set-up as a fifteen minute screen. The main idea is that after six
+This challenge works best online, and usually can be set-up as a fifteen-minute screen. The main idea is that after six
 minutes, you can get a general overview of a person's ability, and most importantly, if you want to continue to see them
 code more. After six minutes, if they aren't the right candidate, you can say "thank you" and hang up. This gives you a
 simple way to finish a screen without crushing the hopes of a candidate. If you want to see more, you can ask them to
@@ -97,7 +97,7 @@ candidates point of view. We can look at commit history, and the evolution of th
 committed and what changes came when. Did the candidate work on a branch, or master? Did they make a bunch of small
 commits, or a few larger ones? Did they add effective commit messages?
 
-We can see how they decided to structure the project. Is all of the code in a single project? Are there
+We can see how they decided to structure the project. Is all the code in a single project? Are there
 multiple projects, and if so, are they effectively laid out in the hierarchy? Are tests in the same project or a
 different one? Does the project structure match what would be considered appropriate for the language that they are
 using?
@@ -177,5 +177,4 @@ that fits the position, but the person that better the team and the company.
 
 
 [1]:{{< relref thoughtsoninterviewing-1.md>}}
-[2]: https://github.com/isidore
-[3]:{{< relref sixminuteinterview.md >}}
+[2]:{{< relref sixminuteinterview.md >}}
