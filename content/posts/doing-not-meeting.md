@@ -26,7 +26,7 @@ collaborative ways, like pairing and ensemble programming, allows us to clear ou
 Practices like asynchronous communication with other teams (through email, manager "telephone", or meetings followed by
 more meetings) cause teams to sit and wait for information. This is a waste of both time and money.
 
-A big part of the [Fluid Scaling Technology](https://fastagile.io) (**FaST**) practices is to remove dependencies that
+A big part of the {{< link fast-io>}}Fluid Scaling Technology{{< /link >}} (**FaST**) practices is to remove dependencies that
 would otherwise slow teams down. FaST promotes a ***Bias Towards Action*** that will enhance value delivered at a more
 rapid pace.
 
