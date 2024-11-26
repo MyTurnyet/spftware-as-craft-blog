@@ -41,7 +41,7 @@ She had been saying this exact thing to me for the entirety of my practice. She 
 
 And I had heard her; I just hadn’t **_listened_** fully.
 
-![speaking at conference](/images/female-speaker.jpg)
+![speaking at conference](./images/female-speaker.jpg)
 ###### Photo attribution: [Image by master1305](https://www.freepik.com/free-photo/female-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_12726939.htm) on Freepik
 
 ## Why is this story important?
