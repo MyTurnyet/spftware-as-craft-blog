@@ -4,14 +4,12 @@ title:  "Someone Wants To Hear You Speak"
 date:   2024-11-12 10:32:01 -0900
 draft: false
 description: What you have to say is important and others will listen.
-images:
-  black-belt-test: /img/black-belt-test.jpg
+
 thumbnail:
     url: /img/female-podcaster.jpg
     author: Kelly Sikkema
     authorURL: https://unsplash.com/@kellysikkema
-    origin: https://unsplash.com/photos/black-and-blue-portable-speaker-zU3HUZvAKJ0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash
-    originName: Unsplash
+    origin: Unsplash
 
 tags:
 - Conferences
@@ -27,6 +25,7 @@ I’ve been doing Aikido, a martial art, for two decades. Each year, a group of 
 I remember one year, I was still new to Aikido (maybe my second year of practice?) I traveled to this seminar with one of the senior students I admired and enjoyed training with during practice. Like me, Ken was a big guy, but he controlled his power and accepted others’ ability levels. I felt that I could push myself without fear of hurting him, or him hurting me, as we ramped up the energy in our practice. Having practiced for many years, he often had stories or anecdotes that he would tell to emphasize points that we were working on.
 
 When he stopped in the middle of practice with me on our second day of the seminar because I was having trouble throwing him, I eagerly awaited the tidbit of learning that I knew he was coming. “You’re not pointing your center at me,” he said. “Always keep your knot pointed at your partner. Your energy flows from your center, and if your center is not towards your partner, you’re not connected with them.”
+{{< figure src="/img/black-belt-test.jpg" caption="My black belt test" width="600" >}}
 
 I tried it, and it worked! I focused on it throughout the rest of the seminar. The effect was amazing! It was an epiphany that changed my Aikido. I was sure that he had given me the secret to Aikido!
 
@@ -41,6 +40,7 @@ She had been saying this exact thing to me for the entirety of my practice. She 
 And I had heard her; I just hadn’t **_listened_** fully.
 
 ## Why is this story important?
+{{< figure src="/img/female-speaker.jpg" caption="Photo attribution: [Image by master1305](https://www.freepik.com/free-photo/female-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_12726939.htm) on Freepik" width="600" >}}
 I realized that often, we hear people tell us things over and over, but we don’t listen until we connect with the speaker. It could be the way that they are saying it. It could be the words they use. It could be that they look or have the same background as we do.
 
 Whatever the reason, there are people out there that need to hear your story. They need to hear you tell it in your way to connect and learn from it. They need to see you onstage (or online) speaking. And they will walk away thinking, “Wow, that was the secret. I learned something amazing!”
