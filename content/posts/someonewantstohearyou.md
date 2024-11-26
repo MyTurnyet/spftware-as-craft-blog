@@ -3,18 +3,18 @@ author: Paige Watson
 title:  "Someone Wants To Hear You Speak"
 date:   2024-11-12 10:32:01 -0900
 draft: false
-description: I can tell you in 6 minutes if I want to continue to write code with a candidate.
+description: What you have to say is important and others will listen.
 thumbnail:
-    url: /img/time-piece.jpg
-    author: Veri Ivanova
-    authorURL: https://unsplash.com/@veri_ivanova
-    origin: https://unsplash.com/photos/person-holding-white-and-silver-colored-pocket-watch-p3Pj7jOYvnM
+    url: /img/female-podcaster.jpg
+    author: Kelly Sikkema
+    authorURL: https://unsplash.com/@kellysikkema
+    origin: https://images.unsplash.com/photo-1612367289790-67d076b32d3b?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     originName: Unsplash
 
 tags:
-- Teams
-- Interviews
-- Hiring
+- Conferences
+- Speaking
+- Knowledge
 
 ---
 
