@@ -30,8 +30,6 @@ When he stopped in the middle of practice with me on our second day of the semin
 
 ![Black belt test]({{page.images.black-belt-test}})
 
-<img src="../images/black-belt-test.jpg" title="My black belt test" width="250"/>
-
 
 I tried it, and it worked! I focused on it throughout the rest of the seminar. The effect was amazing! It was an epiphany that changed my Aikido. I was sure that he had given me the secret to Aikido!
 
