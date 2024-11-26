@@ -28,9 +28,6 @@ I remember one year, I was still new to Aikido (maybe my second year of practice
 
 When he stopped in the middle of practice with me on our second day of the seminar because I was having trouble throwing him, I eagerly awaited the tidbit of learning that I knew he was coming. “You’re not pointing your center at me,” he said. “Always keep your knot pointed at your partner. Your energy flows from your center, and if your center is not towards your partner, you’re not connected with them.”
 
-![Black belt test]({{page.images.black-belt-test}})
-
-
 I tried it, and it worked! I focused on it throughout the rest of the seminar. The effect was amazing! It was an epiphany that changed my Aikido. I was sure that he had given me the secret to Aikido!
 
 Driving back after the seminar, it was all I could think about. I couldn’t wait until I returned to the dojo on Monday and talked to my sensei about it. I thought about it all day at work and excitedly drove to the dojo after work.
@@ -42,11 +39,6 @@ And as I heard myself saying it out loud in my head, I realized **_it was in her
 She had been saying this exact thing to me for the entirety of my practice. She had been telling me to keep my center toward my partner, connect, and move as one.
 
 And I had heard her; I just hadn’t **_listened_** fully.
-
-![Speaking at a conference](../assets/img/female-speaker.jpg)
-
-### {{site.baseURL}}
-###### Photo attribution: [Image by master1305](https://www.freepik.com/free-photo/female-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_12726939.htm) on Freepik
 
 ## Why is this story important?
 I realized that often, we hear people tell us things over and over, but we don’t listen until we connect with the speaker. It could be the way that they are saying it. It could be the words they use. It could be that they look or have the same background as we do.
