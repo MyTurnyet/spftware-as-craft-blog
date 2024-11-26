@@ -25,7 +25,7 @@ I’ve been doing Aikido, a martial art, for two decades. Each year, a group of 
 I remember one year, I was still new to Aikido (maybe my second year of practice?) I traveled to this seminar with one of the senior students I admired and enjoyed training with during practice. Like me, Ken was a big guy, but he controlled his power and accepted others’ ability levels. I felt that I could push myself without fear of hurting him, or him hurting me, as we ramped up the energy in our practice. Having practiced for many years, he often had stories or anecdotes that he would tell to emphasize points that we were working on.
 
 When he stopped in the middle of practice with me on our second day of the seminar because I was having trouble throwing him, I eagerly awaited the tidbit of learning that I knew he was coming. “You’re not pointing your center at me,” he said. “Always keep your knot pointed at your partner. Your energy flows from your center, and if your center is not towards your partner, you’re not connected with them.”
-![My black belt test](/assets/img/black-belt-test.jpg)
+![My black belt test](/img/black-belt-test.jpg)
 
 
 I tried it, and it worked! I focused on it throughout the rest of the seminar. The effect was amazing! It was an epiphany that changed my Aikido. I was sure that he had given me the secret to Aikido!
@@ -40,7 +40,7 @@ She had been saying this exact thing to me for the entirety of my practice. She 
 
 And I had heard her; I just hadn’t **_listened_** fully.
 
-![speaking at conference]({{/img/female-speaker.jpg}})
+![speaking at conference](img/female-speaker.jpg)
 ###### Photo attribution: [Image by master1305](https://www.freepik.com/free-photo/female-speaker-giving-presentation-hall-university-workshop-audience-conference-hall_12726939.htm) on Freepik
 
 ## Why is this story important?
