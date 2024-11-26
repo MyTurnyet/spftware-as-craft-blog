@@ -4,7 +4,7 @@ title:  "Someone Wants To Hear You Speak"
 date:   2024-11-12 10:32:01 -0900
 draft: false
 description: What you have to say is important and others will listen.
-image: 
+asset_path: /assets/img
 thumbnail:
     url: /img/female-podcaster.jpg
     author: Kelly Sikkema
@@ -26,7 +26,7 @@ I’ve been doing Aikido, a martial art, for two decades. Each year, a group of 
 I remember one year, I was still new to Aikido (maybe my second year of practice?) I traveled to this seminar with one of the senior students I admired and enjoyed training with during practice. Like me, Ken was a big guy, but he controlled his power and accepted others’ ability levels. I felt that I could push myself without fear of hurting him, or him hurting me, as we ramped up the energy in our practice. Having practiced for many years, he often had stories or anecdotes that he would tell to emphasize points that we were working on.
 
 When he stopped in the middle of practice with me on our second day of the seminar because I was having trouble throwing him, I eagerly awaited the tidbit of learning that I knew he was coming. “You’re not pointing your center at me,” he said. “Always keep your knot pointed at your partner. Your energy flows from your center, and if your center is not towards your partner, you’re not connected with them.”
-![My black belt test](/assets/img/black-belt-test.jpg)
+![My black belt test]({{asset_path}}/black-belt-test.jpg)
 
 
 I tried it, and it worked! I focused on it throughout the rest of the seminar. The effect was amazing! It was an epiphany that changed my Aikido. I was sure that he had given me the secret to Aikido!
