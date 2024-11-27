@@ -18,7 +18,7 @@ tags:
 - Culture
 ---
 
-## Extreme Programming: 𝗧𝗵𝗲 𝗦𝗲𝗰𝗿𝗲𝘁 𝗦𝗮𝘂𝗰𝗲 𝗳𝗼𝗿 𝗛𝗶𝗴𝗵-𝘀𝗽𝗲𝗲𝗱, 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
+## Extreme Programming - 𝗧𝗵𝗲 𝗦𝗲𝗰𝗿𝗲𝘁 𝗦𝗮𝘂𝗰𝗲 𝗳𝗼𝗿 𝗛𝗶𝗴𝗵-𝘀𝗽𝗲𝗲𝗱, 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
 Join us as we delve into the intriguing world of Extreme Programming (XP), a methodology that has revolutionized the pace and quality of software development. We'll dissect the practices that constitute XP and explore why they are instrumental in more rapidly delivering superior software.
 
 Drawing from his personal experiences, Paige Watson illustrates the practical application of Test-Driven Development, Collaborative Programming, Simple Design, and Continuous Integration. You'll gain insights into how these practices have been pivotal in accelerating team productivity and delivering high-quality software at an unprecedented speed.
