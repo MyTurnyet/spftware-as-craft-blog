@@ -63,6 +63,6 @@ this work, along with how you can implement some or all of these ideas at your c
 [Dynamic ReTeaming](https://www.heidihelfand.com/dynamic-reteaming/)
 
 #### Books
-[FAST Guide](https://www.fastagile.io/fast-guide) - Ron Quartel  
+[FAST Guide](https://www.fastagile.io/guide) - Ron Quartel  
 [Open Space Technology: A Users Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766) - Harrison Owen  
 [Drive](https://www.danpink.com/books/drive) - Daniel Pink
