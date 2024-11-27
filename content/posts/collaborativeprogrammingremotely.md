@@ -107,7 +107,7 @@ One of the most process-intensive aspects of remote collaborative work is the ha
 happens, getting the code onto another person's computer can be confusing and frustrating. The easiest solution to this
 is to share a screen and give control to the current typist. This poses several issues that could slow down the
 work-group. Things like lag time, differences in IDE, and computer setup can make the team less productive. The tool
-that the{{< link remote-mob-programming />}} group recommends (which was created by them) is
+that the {{< link remote-mob-programming />}} group recommends (which was created by them) is
 the "{{< link mob-sh />}}" app written in GO. I would
 really recommend that you give this a try as it works quite well and allows each person to work on their machine when
 it's their turn to be the typist.

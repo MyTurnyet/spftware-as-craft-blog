@@ -54,7 +54,7 @@ collective to select and steward work through each value cycle.
 Just like in an Open Space conference, team members in FaST choose where they can be most effective. This self-selection
 enhances the collective’s ability to address work rapidly, promotes best practices, and eliminates knowledge silos.
 There is
-no {{< link "https://www.industriallogic.com/blog/scatter-gather/" >}}scatter-gather effect{{< /link >}}, as the teams practice collaborative
+no {{< link ottinger-scatter-gather >}}scatter-gather effect{{< /link >}}, as the teams practice collaborative
 programming. Throughput speed increases as there are no silos to gate important work. **FaST** creates the right teams
 with the right people at the right time to make sure the best software is created.
 
