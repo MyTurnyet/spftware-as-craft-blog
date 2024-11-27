@@ -1,6 +1,5 @@
 ---
-menu: main
-title: Workshops
+title: Learning to do the work...
 weight: 40
 ---
 

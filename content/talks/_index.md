@@ -1,6 +1,5 @@
 ---
-menu: main
-title: Talks
+title: Getting the word out...
 weight: 30
 ---
 

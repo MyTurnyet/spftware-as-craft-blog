@@ -34,10 +34,15 @@
         color = "primary"
         width = 6
         align = "start"
+[posts]
+    fullCover = true
+    centerHeadline = false
+    style = ""
+
 
 [sections]
     [sections.posts]
-        title = "Things I think about..."
+        title = "Applying our craft..."
         buttonType = "link"
         sort = "date"
         reverse = true

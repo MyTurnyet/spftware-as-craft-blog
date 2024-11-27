@@ -3,6 +3,22 @@
   pageRef = "/"
   weight = 10
 
+[[main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 10
+
+
+[[main]]
+  name = "Talks"
+  pageRef = "/talks"
+  weight = 10
+
+
+[[main]]
+  name = "Workshops"
+  pageRef = "/workshops"
+  weight = 10
 
 [[social]]
   name = "LinkedIn"
