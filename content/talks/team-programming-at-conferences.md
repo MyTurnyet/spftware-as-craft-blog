@@ -59,18 +59,18 @@ Finally, we'll discuss how to transition to a Whole Team approach and the benefi
 {{< /table >}}
 
 ### Resources
-- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/whole-team-programming/Whole%20Team%20Programming%20Workshop.pdf) - updated 2023-05-06
+- {{< link "https://github.com/MyTurnyet/Talks/blob/main/whole-team-programming/Whole%20Team%20Programming%20Workshop.pdf" >}}Slide deck{{< /link >}} - updated 2023-05-06
 
 ### Links
-Workshop Github repository: https://github.com/MyTurnyet/wholeteam_js  
-Numbers To Words kata: https://www.tddbuddy.com/katas/numbers-to-words.html
+Workshop Github repository: {{< link "https://github.com/MyTurnyet/wholeteam_js" />}}  
+Numbers To Words kata: {{< link "https://www.tddbuddy.com/katas/numbers-to-words.html" />}}
 
-Jay Bazuzi's [Mobbing Pattern Language](https://jay.bazuzi.com/Mobbing-Pattern-Language/)
+Jay Bazuzi's {{< link "https://jay.bazuzi.com/Mobbing-Pattern-Language/" >}}Mobbing Pattern Language{{< /link >}}
 
 {{< link ottinger-scatter-gather >}}Scatter-Gather blog post{{< /link >}} - Tim Ottinger  
-[Feels like Faster vs. Is Actually Faster](https://medium.com/hackernoon/feels-like-faster-vs-makes-us-faster-828686facc7e) - John Cutler
+{{< link "https://medium.com/hackernoon/feels-like-faster-vs-makes-us-faster-828686facc7e" >}}Feels like Faster vs. Is Actually Faster{{< /link >}} - John Cutler
 
 
 #### Books
-[Software Teaming: A Mob Programming, Whole-Team Approach](https://www.amazon.com/Software-Teaming-Programming-Whole-Team-Approach/dp/B0BLG1QTYK) - Woody Zuill and Kevin Meadows  
-[Code with the Wisdom of the Crowd: Get Better Together with Mob Programming](https://www.amazon.com/Code-Wisdom-Crowd-Together-Programming/dp/1680506153) - Mark Pearl
+{{< link "https://www.amazon.com/Software-Teaming-Programming-Whole-Team-Approach/dp/B0BLG1QTYK" >}}Software Teaming: A Mob Programming, Whole-Team Approach{{< /link >}} - Woody Zuill and Kevin Meadows  
+{{< link "https://www.amazon.com/Code-Wisdom-Crowd-Together-Programming/dp/1680506153" >}}Code with the Wisdom of the Crowd: Get Better Together with Mob Programming{{< /link >}} - Mark Pearl

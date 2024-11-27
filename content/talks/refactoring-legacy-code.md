@@ -41,8 +41,8 @@ We will delve into:
 {{< /table >}}
 
 ### Resources
-[Slide Deck](https://prezi.com/p/edit/7zadgc933w57/)
+{{< link "https://prezi.com/p/edit/7zadgc933w57/" >}}Slide Deck{{< /link >}}
 
 ### Links
-[Bad Elevator](https://github.com/MyTurnyet/BadElevator) code base for practice (Java)  
-Llewellyn Falco's [Youtube talk](https://youtu.be/wp6oSVDdbXQ?si=yUx2lLEwks8TZB-t) on referenced in the Tek Caffe video
+{{< link "https://github.com/MyTurnyet/BadElevator" >}}Bad Elevator{{< /link >}} code base for practice (Java)  
+Llewellyn Falco's {{< link "https://youtu.be/wp6oSVDdbXQ?si=yUx2lLEwks8TZB-t" >}}Youtube talk{{< /link >}} on referenced in the Tek Caffe video

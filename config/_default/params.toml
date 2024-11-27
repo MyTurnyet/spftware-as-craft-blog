@@ -101,6 +101,9 @@
 # toml-docs-start managed-links
 [links]
     aonw = "https://www.agileopennorthwest.org/"
+    book-peak = "https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise"
+    book-thinking-fast-and-slow = "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
+    book-drive = "https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us"
     calendly = "https://calendly.com/paige-watson"
     fast-io ="https://fastagile.io"
     fast-guide = "https://www.fastagile.io/fast-guide"
@@ -111,4 +114,5 @@
     myturn-yet-talks = "/talks"
     ottinger-scatter-gather = "https://www.industriallogic.com/blog/scatter-gather/"
     remote-mob-programming = "https://remotemobprogramming.org"
+
 # toml-docs-end managed-links

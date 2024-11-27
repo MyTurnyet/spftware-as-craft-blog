@@ -53,16 +53,16 @@ this work, along with how you can implement some or all of these ideas at your c
 
 ### Resources
 
-- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20%20the%20way%20we%20want%20-%202023.pdf) - updated 2023-02-02
-- [Lightning Talk Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) - updated 2023-05-10
+- {{< link "https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20%20the%20way%20we%20want%20-%202023.pdf" >}}Slide deck{{< /link >}} - updated 2023-02-02
+- {{< link "https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf" >}}Lightning Talk Slide deck{{< /link >}} - updated 2023-05-10
 
 ### Links
-[FAST-Agile](https://www.fastagile.io/home)  
-[Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/)  
-[Open Space World](https://openspaceworld.org/wp2/)  
-[Dynamic ReTeaming](https://www.heidihelfand.com/dynamic-reteaming/)
+{{< link "https://www.fastagile.io/home" >}}FAST-Agile{{< /link >}}  
+{{< link "https://www.industriallogic.com/blog/discovery-trees/" >}}Discovery Trees{{< /link >}}  
+{{< link "https://openspaceworld.org/wp2/" >}}Open Space World{{< /link >}}  
+{{< link "https://www.heidihelfand.com/dynamic-reteaming/" >}}Dynamic ReTeaming{{< /link >}}
 
 #### Books
-[FAST Guide](https://www.fastagile.io/guide) - Ron Quartel  
-[Open Space Technology: A Users Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766) - Harrison Owen  
-[Drive](https://www.danpink.com/books/drive) - Daniel Pink
+{{< link fast-guide >}}FAST Guide{{< /link >}} - Ron Quartel   
+{{< link "https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766" >}}Open Space Technology: A Users Guide{{< /link >}} - Harrison Owen  
+{{< link book-drive >}}Drive: The surprising truth about what motivates us{{< /link >}} - Daniel Pink

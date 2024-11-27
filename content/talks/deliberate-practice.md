@@ -50,19 +50,20 @@ will get to participate in a simple, but effective example of practices they can
 {{< /table >}}
 
 ### Resources
-- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf) - updated 2023-04-19
+- {{< link "https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf" >}}Slide deck{{< /link >}} - updated 2023-04-19
 
 ### Links
-Llewellyn Falco's [Sparrow Decks](http://llewellynfalco.blogspot.com/p/sparrow-decks.html)
+Llewellyn Falco's {{< link "http://llewellynfalco.blogspot.com/p/sparrow-decks.html" >}}Sparrow Decks{{< /link >}}
 - Youtube talk on Sparrow Decks
 
-[FizzBuzz](https://github.com/ardalis/kata-catalog/blob/main/katas/FizzBuzz.md) Kata  
-[Gilded Rose](https://github.com/ardalis/kata-catalog/blob/main/katas/Gilded%20Rose.md) Kata  
-[Kata Rules](https://www.katanation.com/kata-culture) from Katanation.com
+{{< link "https://github.com/ardalis/kata-catalog/blob/main/katas/FizzBuzz.md" >}}FizzBuzz{{< /link >}} Kata  
+{{< link "https://github.com/ardalis/kata-catalog/blob/main/katas/Gilded%20Rose.md" >}}Gilded Rose{{< /link >}} Kata  
+{{< link "https://www.katanation.com/kata-culture" >}}Kata Rules{{< /link >}} from Katanation.com
 
-Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) rules
+Conway's {{< link "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" >}}Game of Life{{< /link >}} rules
 
 ### Books
-[Peak: Secrets from the New Science of Expertise](https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise) - K. Anders Ericsson  
-[Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daneil Kahneman  
-[Drive: The surprising truth about what motivates us](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) - Daniel Pink
+
+{{< link book-peak >}}Peak: Secrets from the New Science of Expertise{{< /link >}} - K. Anders Ericsson  
+{{< link book-thinking-fast-and-slow >}}Thinking, Fast and Slow{{< /link >}} - Daneil Kahneman  
+{{< link book-drive >}}Drive: The surprising truth about what motivates us{{< /link >}} - Daniel Pink
