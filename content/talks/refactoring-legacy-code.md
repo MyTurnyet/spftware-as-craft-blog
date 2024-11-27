@@ -4,10 +4,10 @@ date: 2024-11-25 15:00:26 -0900
 draft: false
 description: A dissection of the practices that constitute XP and explore why they are instrumental in more rapidly delivering superior software.
 thumbnail:
-  url: /img/extreme-programmers.jpg
-  author: Alvaro Reyes
-  authorURL: https://unsplash.com/@alvarordesign
-  origin: https://unsplash.com/photos/two-men-using-computer-and-laptop-fSWOVc3e06w
+  url: /img/strangler-fig.jpg
+  author: David Clode
+  authorURL: https://unsplash.com/@davidclode
+  origin: https://unsplash.com/photos/brown-tree-with-green-leaves-aLL-IrVdW0c
   originName: Unsplash
 
 tags:
