@@ -1,5 +1,5 @@
 ---
-title: Extreme Programming - 𝗧𝗵𝗲 𝗦𝗲𝗰𝗿𝗲𝘁 𝗦𝗮𝘂𝗰𝗲 𝗳𝗼𝗿 𝗛𝗶𝗴𝗵-𝘀𝗽𝗲𝗲𝗱, 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
+title: Extreme Programming:: The Secret Sauce fo Quality Software
 date: 2024-11-25 15:00:26 -0900
 draft: false
 description:  A dissection of the practices that constitute XP and explore why they are instrumental in more rapidly delivering superior software.
@@ -44,5 +44,5 @@ Martin Fowler's page on [Extreme Programming](https://martinfowler.com/bliki/Ext
 Wikipedia: [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)
 
 #### Books
-[Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) 2nd Edition](https://a.co/d/hRRLVxW) - Kent Beck
+[Extreme Programming Explained: Embrace Change, 2nd Edition (The XP Series) 2nd Edition](https://a.co/d/hRRLVxW) - Kent Beck  
 [The Art of Agile Development 2nd Edition](https://a.co/d/ait833I) - James Shore
