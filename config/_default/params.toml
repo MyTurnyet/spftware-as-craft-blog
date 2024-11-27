@@ -11,10 +11,14 @@
     [main.externalLinks]
         cue = true
         tab = true
+[modules]
+    core = ["bootstrap", "flexsearch", "fontawesome"]
+    optional = ["leaflet", "katex"]
+    excludeSCSS = ["bootstrap"]
+    disableTemplate = ["katex"]
 
 [home]
-    sections = ["posts"]
-#    sections = ["posts", "talks", "workshops"]
+    sections = ["posts", "talks", "workshops"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -23,6 +27,47 @@
         color = "secondary"
         width = 6
         align = "start"
+
+[sections]
+    [sections.posts]
+        title = "Posts"
+        sort = "date"
+        reverse = true
+        cols = 4
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 8
+        separator = false
+    [sections.talks]
+        title = "Talks I Give"
+        sort = "date"
+        reverse = true
+        cols = 4
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 8
+        separator = false
+    [sections.workshops]
+        title = "Workshops Available"
+        sort = "date"
+        reverse = true
+        cols = 4
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 8
+        separator = false
 
 # toml-docs-start navigation
 [navigation]
