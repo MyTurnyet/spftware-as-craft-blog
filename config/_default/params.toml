@@ -31,48 +31,48 @@
     style = ""
     [home.feature]
         orientation = "horizontal"
-        color = "secondary"
+        color = "primary"
         width = 6
         align = "start"
 
 [sections]
     [sections.posts]
-        title = "Posts"
+        title = "Things I think about..."
+        buttonType = "link"
         sort = "date"
         reverse = true
         cols = 4
         color = ""
-        padding = "0"
-        header = "full"
-        footer = "none"
+        padding = "2"
+        header = "publication"
+        footer = "tags"
         orientation = "stacked"
-        style = "border-0 card-zoom"
+        style = "border-1 card-zoom"
         homepage = 8
-        separator = false
     [sections.talks]
-        title = "Talks I Give"
+        title = "Talks I give..."
         sort = "date"
         reverse = true
         cols = 4
         color = ""
-        padding = "0"
+        padding = "2"
         header = "full"
         footer = "none"
         orientation = "stacked"
-        style = "border-0 card-zoom"
+        style = "border-1 card-zoom"
         homepage = 8
         separator = false
     [sections.workshops]
-        title = "Workshops Available"
+        title = "Workshops available..."
         sort = "date"
         reverse = true
         cols = 4
         color = ""
-        padding = "0"
+        padding = "2"
         header = "full"
         footer = "none"
         orientation = "stacked"
-        style = "border-0 card-zoom"
+        style = "border-1 card-zoom"
         homepage = 8
         separator = false
 
