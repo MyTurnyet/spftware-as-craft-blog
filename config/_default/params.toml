@@ -18,11 +18,6 @@
         cue = true
         tab = true
 
-[modules]
-    core = ["bootstrap", "flexsearch", "fontawesome"]
-    optional = ["leaflet", "katex"]
-    excludeSCSS = ["bootstrap"]
-    disableTemplate = ["katex"]
 
 [home]
     sections = ["posts", "talks", "workshops"]
@@ -131,3 +126,8 @@ warning = "#ED8936"
 danger = "#E53E3E"
 light = "#F7FAFC"
 dark = "#1A202C"
+
+
+[[params.plugins.css]]
+    link = "plugins/font-awesome/v6/brands.css"
+    lazy = true

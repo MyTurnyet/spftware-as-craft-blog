@@ -27,6 +27,12 @@
   weight = 10
 
 [[social]]
+  name = "BlueSky"
+  pre = "fas bug"
+  url = "https://bsky.app/profile/softwareascraft.com"
+  weight = 10
+
+[[social]]
   name = "GitHub"
   pre = "fab fa-github"
   url = "https://github.com/MyTurnyet"

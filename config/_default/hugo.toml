@@ -46,10 +46,16 @@ defaultContentLanguageInSubdir = false
     webshare = true
 
 [[sharing.providers]]
+    name = "Bluesky"
+    url = "https://bsky.app/intent/compose?text=Check%20out%20this%20great%20blog%20post%20by%20%40softwareascraft.com%3A%0A{title}%3A%0A{url}"
+    icon = "fas bug"
+    weight = 10
+
+[[sharing.providers]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
     icon = "fab linkedin"
-    weight = 10
+    weight = 20
 
 [[sharing.providers]]
     name = "Facebook"
@@ -107,4 +113,5 @@ defaultContentLanguageInSubdir = false
         excludeFiles = 'docs/latest/*'
     [[module.imports]]
         path = "github.com/gethinode/hinode"
-
+    [[module.imports]]
+        path = "github.com/gethinode/mod-fontawesome"
