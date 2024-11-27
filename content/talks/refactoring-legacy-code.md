@@ -1,8 +1,8 @@
 ---
-title: Extreme Programming - 𝗧𝗵𝗲 𝗦𝗲𝗰𝗿𝗲𝘁 𝗦𝗮𝘂𝗰𝗲 𝗳𝗼𝗿 𝗛𝗶𝗴𝗵-𝘀𝗽𝗲𝗲𝗱, 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲
+title: Refactoring Legacy Code
 date: 2024-11-25 15:00:26 -0900
 draft: false
-description: A dissection of the practices that constitute XP and explore why they are instrumental in more rapidly delivering superior software.
+description: Legacy code can be a beast:: fragile, complex, and often lacking the necessary tests to ensure changes don’t introduce defects.
 thumbnail:
   url: /img/strangler-fig.jpg
   author: David Clode
