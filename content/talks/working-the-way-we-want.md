@@ -53,10 +53,16 @@ this work, along with how you can implement some or all of these ideas at your c
 
 ### Resources
 
-- [Resource Links]({{<ref "resources/working-the-way-we-want-resources.md">}})
-- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20%20the%20way%20we%20want%20-%202023.pdf) -
-  updated
-  2023-02-02
-- [Lightning Talk Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) -
-  updated
-  2023-05-10
+- [Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20%20the%20way%20we%20want%20-%202023.pdf) - updated 2023-02-02
+- [Lightning Talk Slide deck](https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf) - updated 2023-05-10
+
+### Links
+[FAST-Agile](https://www.fastagile.io/home)  
+[Discovery Trees](https://www.industriallogic.com/blog/discovery-trees/)  
+[Open Space World](https://openspaceworld.org/wp2/)  
+[Dynamic ReTeaming](https://www.heidihelfand.com/dynamic-reteaming/)
+
+#### Books
+[FAST Guide](https://www.fastagile.io/fast-guide) - Ron Quartel  
+[Open Space Technology: A Users Guide](https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766) - Harrison Owen  
+[Drive](https://www.danpink.com/books/drive) - Daniel Pink
