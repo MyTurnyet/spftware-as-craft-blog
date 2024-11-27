@@ -2,6 +2,7 @@ title = "Software As Craft"
 copyright = "Copyright © 2023 Software as Craft LLC."
 paginate = 9
 enableGitInfo = false
+endorse = false
 
 # additional settings
 baseURL = 'https://www.softwareascraft.com/'

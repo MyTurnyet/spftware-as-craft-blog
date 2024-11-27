@@ -20,7 +20,7 @@
     style = ""
     [home.feature]
         orientation = "horizontal"
-        color = "primary"
+        color = "secondary"
         width = 6
         align = "start"
 
