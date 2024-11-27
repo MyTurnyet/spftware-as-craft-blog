@@ -1,11 +1,11 @@
 title = "Software As Craft"
+baseURL = 'https://www.softwareascraft.com/'
 copyright = "Copyright © 2023 Software as Craft LLC."
 paginate = 9
 enableGitInfo = false
 endorse = false
 
 # additional settings
-baseURL = 'https://www.softwareascraft.com/'
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -64,6 +64,47 @@ defaultContentLanguageInSubdir = false
     weight = 50
     clipboard = true
 
-[[module.imports]]
-    path = 'github.com/gethinode/hinode'
+[outputFormats]
+    [outputFormats.XML]
+        isPlainText = false
+        mediaType = "application/xml"
+        isHtml = false
+        noUgly = true
+        permalinkable = false
+        name = "xml"
+
+[module]
+    [module.hugoVersion]
+        extended = true
+        min = "0.120.0"
+        max = ""
+    [[module.mounts]]
+        source = "archetypes"
+        target = "archetypes"
+    [[module.mounts]]
+        source = "assets"
+        target = "assets"
+    [[module.mounts]]
+        source = "i18n"
+        target = "i18n"
+    [[module.mounts]]
+        source = "layouts"
+        target = "layouts"
+    [[module.mounts]]
+        source = "static"
+        target = "static"
+    [[module.mounts]]
+        source = "static/fonts"
+        target = "static/fonts"
+    [[module.mounts]]
+        source = "content/en/docs/latest"
+        target = "content/docs/1.0"
+        lang = 'en'
+    [[module.mounts]]
+        source = "content/en"
+        target = "content"
+        lang = 'en'
+        excludeFiles = 'docs/latest/*'
+    [[module.imports]]
+        path = "github.com/gethinode/hinode"
 
