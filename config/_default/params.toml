@@ -1,16 +1,23 @@
 [main]
     separator = "-"
-    enableDarkMode = true
-
 #    this will display the hinode link for the theme
     endorse = false
 
     footerBelowFold = true
- #   loading = "lazy"
- #   breakpoint = "md"
+    enableDarkMode = true
+    enableLanguageSelectionStorage = false
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    loading = "lazy"
+    breakpoint = "md"
+    [main.internalLinks]
+        validate = true
+    [main.build]
+        transpiler = "libsass"
     [main.externalLinks]
         cue = true
         tab = true
+
 [modules]
     core = ["bootstrap", "flexsearch", "fontawesome"]
     optional = ["leaflet", "katex"]
