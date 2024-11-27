@@ -1,20 +1,20 @@
 [main]
-    paginate = 9
     separator = "-"
     enableDarkMode = true
-    modes = ["light", "dark"]
-    canonifyAssetsURLs = false
-    endorse = true
-    footerBelowFold = false
-    loading = "lazy"
-    breakpoint = "md"
 
+#    this will display the hinode link for the theme
+    endorse = false
+
+    footerBelowFold = true
+ #   loading = "lazy"
+ #   breakpoint = "md"
     [main.externalLinks]
         cue = true
         tab = true
 
 [home]
-    sections = ["posts", "talks", "workshops"]
+    sections = ["posts"]
+#    sections = ["posts", "talks", "workshops"]
     fullCover = false
     centerHeadline = false
     style = ""
