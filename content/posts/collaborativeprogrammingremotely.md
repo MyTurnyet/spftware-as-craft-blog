@@ -7,8 +7,8 @@ thumbnail:
   url: /img/remote-work.jpg
   author: Kristing Wilson
   authorURL: https://unsplash.com/@kristinwilson
-  origin: https://unsplash.com/photos/person-in-blue-jacket-sitting-on-brown-wooden-chair-near-brown-wooden-table-during-daytime-z3htkdHUh5w
-  originName: Unsplash
+  originURL: https://unsplash.com/photos/person-in-blue-jacket-sitting-on-brown-wooden-chair-near-brown-wooden-table-during-daytime-z3htkdHUh5w
+  origin: Unsplash
 
 author: Paige Watson
 tags:

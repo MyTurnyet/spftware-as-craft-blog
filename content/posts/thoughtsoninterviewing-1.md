@@ -7,8 +7,8 @@ thumbnail:
   url: /img/interviewing-1.jpg
   author: Amy Hirschi
   authorURL: https://unsplash.com/@amyhirsch
-  origin: https://unsplash.com/photos/woman-in-teal-t-shirt-sitting-beside-woman-in-suit-jacket-JaoVGh5aJ3E
-  originName: Unsplash
+  originURL: https://unsplash.com/photos/woman-in-teal-t-shirt-sitting-beside-woman-in-suit-jacket-JaoVGh5aJ3E
+  origin: Unsplash
 
 tags:
 - Interviewing

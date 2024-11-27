@@ -7,8 +7,8 @@ thumbnail:
   url: /img/football-practice.jpg
   author: Ben Hershey
   authorURL: https://unsplash.com/@benhershey
-  origin: https://unsplash.com/photos/people-playing-football-f6UzEHe5qf4
-  originName: Unsplash
+  originURL: https://unsplash.com/photos/people-playing-football-f6UzEHe5qf4
+  origin: Unsplash
 
 tags:
 - Learning

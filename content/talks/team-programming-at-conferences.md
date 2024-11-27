@@ -7,8 +7,8 @@ thumbnail:
     url: /img/collaboration.jpg
     author: Austin Distel
     authorURL: https://unsplash.com/@austindistel
-    origin: https://unsplash.com/photos/three-men-sitting-on-chair-beside-tables-mpN7xjKQ_Ns
-    originName: Unsplash
+    originURL: https://unsplash.com/photos/three-men-sitting-on-chair-beside-tables-mpN7xjKQ_Ns
+    origin: Unsplash
 
 tags:
 - Continuous Improvement

@@ -8,8 +8,8 @@ thumbnail:
   url: /img/fast-blur.png
   author: Paige Watson
   authorURL: https://softwareascraft.com
-  origin: https://softwareascraft.com
-  originName: My Blog
+  originURL: https://softwareascraft.com
+  origin: My Blog
 
 tags:
 - Fluid Scaling Technology

@@ -7,8 +7,8 @@ thumbnail:
     url: /img/doing-work.jpg
     author: Jud Mackrill
     authorURL: https://unsplash.com/@judmackrill
-    origin: https://unsplash.com/photos/mens-gray-crew-neck-t-shirt-Of_m3hMsoAA
-    originName: Unsplash
+    originURL: https://unsplash.com/photos/mens-gray-crew-neck-t-shirt-Of_m3hMsoAA
+    origin: Unsplash
 
 tags:
 - Agility

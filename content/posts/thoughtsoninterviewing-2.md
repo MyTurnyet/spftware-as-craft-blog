@@ -7,8 +7,8 @@ thumbnail:
     url: /img/interviewing-2.jpg
     author: Cytonn Photogrphy
     authorURL: https://unsplash.com/@cytonn_photography
-    origin: https://unsplash.com/photos/two-people-shaking-hands-n95VMLxqM2I
-    originName: Unsplash
+    originURL: https://unsplash.com/photos/two-people-shaking-hands-n95VMLxqM2I
+    origin: Unsplash
 
 tags:
 - Interviewing

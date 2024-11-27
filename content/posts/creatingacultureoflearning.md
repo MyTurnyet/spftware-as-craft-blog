@@ -7,8 +7,8 @@ thumbnail:
     url: /img/two-women.jpg
     author: Christina
     authorURL: https://unsplash.com/@wocintechchat
-    origin: https://unsplash.com/photos/two-women-sitting-beside-table-and-talking-LQ1t-8Ms5PY
-    originName: Unsplash
+    originURL: https://unsplash.com/photos/two-women-sitting-beside-table-and-talking-LQ1t-8Ms5PY
+    origin: Unsplash
 
 tags:
 - Learning

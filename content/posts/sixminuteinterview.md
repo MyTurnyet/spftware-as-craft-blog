@@ -8,8 +8,8 @@ thumbnail:
   url: /img/time-piece.jpg
   author: Veri Ivanova
   authorURL: https://unsplash.com/@veri_ivanova
-  origin: https://unsplash.com/photos/person-holding-white-and-silver-colored-pocket-watch-p3Pj7jOYvnM
-  originName: Unsplash
+  originURL: https://unsplash.com/photos/person-holding-white-and-silver-colored-pocket-watch-p3Pj7jOYvnM
+  origin: Unsplash
 
 tags:
 - Teams

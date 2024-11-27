@@ -7,8 +7,8 @@ thumbnail:
   url: /img/strangler-fig.jpg
   author: David Clode
   authorURL: https://unsplash.com/@davidclode
-  origin: https://unsplash.com/photos/brown-tree-with-green-leaves-aLL-IrVdW0c
-  originName: Unsplash
+  originURL: https://unsplash.com/photos/brown-tree-with-green-leaves-aLL-IrVdW0c
+  origin: Unsplash
 
 tags:
   - Quality Code

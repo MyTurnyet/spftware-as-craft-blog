@@ -7,8 +7,8 @@ thumbnail:
     url: /img/crafter.jpg
     author: Nick Karvounis
     authorURL: https://unsplash.com/@nickkarvounis
-    origin: https://unsplash.com/photos/person-holding-black-metal-frames-XcLQN-2R9CM
-    originName: Unsplash
+    originURL: https://unsplash.com/photos/person-holding-black-metal-frames-XcLQN-2R9CM
+    origin: Unsplash
 
 tags:
 - Software as Craft

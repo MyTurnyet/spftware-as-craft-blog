@@ -7,8 +7,8 @@ thumbnail:
   url: /img/extreme-programmers.jpg
   author: Alvaro Reyes
   authorURL: https://unsplash.com/@alvarordesign
-  origin: https://unsplash.com/photos/two-men-using-computer-and-laptop-fSWOVc3e06w
-  originName: Unsplash
+  originURL: https://unsplash.com/photos/two-men-using-computer-and-laptop-fSWOVc3e06w
+  origin: Unsplash
 
 tags:
 - XP
