@@ -1,8 +1,8 @@
 ---
-title: Extreme Programming:: The Secret Sauce fo Quality Software
+title: The Secret Sauce fo Quality Software
 date: 2024-11-25 15:00:26 -0900
 draft: false
-description:  A dissection of the practices that constitute XP and explore why they are instrumental in more rapidly delivering superior software.
+description: A dissection of the practices that constitute XP and explore why they are instrumental in more rapidly delivering superior software.
 thumbnail:
   url: /img/extreme-programmers.jpg
   author: Alvaro Reyes

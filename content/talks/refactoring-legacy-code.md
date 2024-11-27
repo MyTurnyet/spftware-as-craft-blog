@@ -2,7 +2,7 @@
 title: Refactoring Legacy Code
 date: 2024-11-25 15:00:26 -0900
 draft: false
-description: Legacy code can be a beast:: fragile, complex, and often lacking the necessary tests to ensure changes don’t introduce defects.
+description: Legacy code can be a beast. Fragile, complex, and often lacking the necessary tests to ensure changes don’t introduce defects.
 thumbnail:
   url: /img/strangler-fig.jpg
   author: David Clode
