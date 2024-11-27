@@ -23,7 +23,7 @@ tags:
 They’re a personal favorite. While traditional "tracked" conferences offer value, I often find myself skipping sections
 that don’t pique my interest.
 
-Contrastingly, Open Space conferences, like {{< link "https://www.agileopennorthwest.org/" >}}Open Agile Northwest{{< /link >}}, allow attendees
+Contrastingly, Open Space conferences, like {{< link aonw >}}Open Agile Northwest{{< /link >}}, allow attendees
 to self-organize the daily session schedule. This process takes about 30 minutes each morning, a stark contrast to the
 months-long preparation for tracked conferences.
 

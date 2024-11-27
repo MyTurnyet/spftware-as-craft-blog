@@ -85,7 +85,7 @@ Here are a list of things to look for when administering this during an intervie
 - You should be using a language that is used regularly as part of your work.
 - If they don’t, it’s not a disqualification, as long as you can answer yes to the following:
     - Do they know another similar language?
-    - Do they understand Object Oriented languages?
+    - Do they understand Object-Oriented languages?
     - Can they learn this language?
 
 **Do they know about tests?**

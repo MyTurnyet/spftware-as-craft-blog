@@ -46,7 +46,7 @@ Here’s an example of the what I see with a majority of companies trying to hir
 
 The cycle goes like this:
 
-#### Gate Keepers
+#### Gatekeepers
 
 Resume’s get submitted to HR recruiting manager.
 
