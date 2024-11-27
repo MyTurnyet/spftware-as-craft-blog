@@ -14,7 +14,7 @@
         tab = true
 
 [home]
-    sections = ["workshops","posts", "talks"]
+    sections = ["posts", "talks", "workshops"]
     fullCover = false
     centerHeadline = false
     style = ""

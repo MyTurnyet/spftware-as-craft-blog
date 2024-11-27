@@ -30,11 +30,6 @@ defaultContentLanguageInSubdir = false
         disabled = false
         simple = true
 
-    [privacy.twitter]
-        disabled = false
-        enableDNT = true
-        simple = true
-
     [privacy.instagram]
         disabled = false
         simple = true
@@ -56,22 +51,10 @@ defaultContentLanguageInSubdir = false
     weight = 10
 
 [[sharing.providers]]
-    name = "Twitter"
-    url = "https://twitter.com/home?status={url}"
-    icon = "fab x-twitter"
-    weight = 20
-
-[[sharing.providers]]
     name = "Facebook"
     url = "https://www.facebook.com/sharer.php?u={url}"
     icon = "fab facebook"
     weight = 30
-
-[[sharing.providers]]
-    name = "WhatsApp"
-    url = "whatsapp://send?text={title}%20{url}"
-    icon = "fab whatsapp"
-    weight = 40
 
 [[sharing.providers]]
     name = "email"
