@@ -8,7 +8,7 @@ thumbnail:
     author: Drazen Zigic
     authorURL: https://www.freepik.com/author/drazenzigic
     origin: FreePik
-    origin: FreePik
+    originURL: https://www.freepik.com/author/drazenzigic
 
 tags:
 - Continuous Improvement
