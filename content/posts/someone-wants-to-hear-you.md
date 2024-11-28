@@ -22,7 +22,7 @@ tags:
 The other day a colleague said they wanted to get into speaking and presenting at seminars, but had nothing new to say.
 They were worried that all the “good stuff” had already been said, and so I told them this story:
 
-I’ve been doing Aikido, a martial art, for two decades. Each year, a group of us from my dojo head from Seattle,
+I’ve did Aikido, a martial art, for two decades. Each year, a group of us from my dojo would travel from Seattle,
 Washington, to Missoula, Montana to attend a weekend seminar with the head of our organization.
 
 I remember one year, I was still new to Aikido (maybe my second year of practice?) I traveled to this seminar with one
