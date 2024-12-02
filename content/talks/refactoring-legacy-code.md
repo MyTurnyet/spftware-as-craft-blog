@@ -34,7 +34,7 @@ We will delve into:
 - Learn the benefits for using the Strangler Fig Pattern as opposed to an application rewrite
 
 ### Presentation Dates
-{{< table "table-hover" >}}
+{{< table class=class="table-hover" >}}
 | Date       | Location                                                                                 | Recording Link                                         |
 |------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 2024-07-09 | [Tek Caffe](https://www.linkedin.com/company/tek-caffe/)                                          | [YouTube](https://www.youtube.com/live/5k5r6QMt6Xk)                |

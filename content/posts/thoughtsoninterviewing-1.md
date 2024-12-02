@@ -128,6 +128,6 @@ Does this get us a great team member, or does it get us the person that fits a p
 Interviews shouldn't be seen as a way to measure the knowledge of a candidate, but more as a way to gauge the fit of a
 candidate into our organization.
 
-Let's talk about a better way to do this in [Part II]({{<relref thoughtsoninterviewing-2>}})
+Let's talk about a better way to do this in [Part II]({{% relref thoughtsoninterviewing-2 %}})
 
 

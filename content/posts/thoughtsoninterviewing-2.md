@@ -176,5 +176,5 @@ changing, and because of this, we need to continually update and refine our hiri
 that fits the position, but the person that better the team and the company.
 
 
-[1]:{{< relref thoughtsoninterviewing-1.md>}}
-[2]:{{< relref sixminuteinterview.md >}}
+[1]:{{% relref thoughtsoninterviewing-1.md %}}
+[2]:{{% relref sixminuteinterview.md %}}

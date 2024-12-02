@@ -30,7 +30,7 @@ Understand the positive outcomes when a team works in an XP manner
 Hear about misconceptions and challenges that arise on XP teams
 
 ### Presentation Dates
-{{< table "table-hover" >}}
+{{< table class="table-hover" >}}
 | Date       | Location                                                                                 | Recording Link                                         |
 |------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 2024-04-22 | [Tek Caffe](https://www.linkedin.com/company/tek-caffe/)                                          | [YouTube](https://www.youtube.com/watch?v=yqJcfsnuXgY)                |

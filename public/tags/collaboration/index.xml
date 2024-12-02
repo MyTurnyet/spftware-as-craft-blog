@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Collaboration on Software As Craft</title><link>https://www.softwareascraft.com/tags/collaboration/</link><description>Recent content in Collaboration on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Sun, 02 Apr 2023 14:56:39 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/tags/collaboration/index.xml" rel="self" type="application/rss+xml"/><item><title>Collaborative Programming... Remotely!</title><link>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</link><pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><guid>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</guid><description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaboration on Software As Craft</title>
+    <link>http://localhost:1313/tags/collaboration/</link>
+    <description>Recent content in Collaboration on Software As Craft</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Sun, 02 Apr 2023 14:56:39 -0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaborative Programming... Remotely!</title>
+      <link>http://localhost:1313/posts/collaborativeprogrammingremotely/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
+      <guid>http://localhost:1313/posts/collaborativeprogrammingremotely/</guid>
+      <description>&lt;p&gt;One of the most active topics at meet-ups and in online discussion groups in the last few months centers&#xA;around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work. Over time,&#xA;the one list of &amp;ldquo;do&amp;rsquo;s&amp;rdquo; and &amp;ldquo;don&amp;rsquo;ts&amp;rdquo; that has made it&amp;rsquo;s way to the forefront of discussions is the list at&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&lt;a href=&#34;https://remotemobprogramming.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer nofollow&#34;&gt;remotemobprogramming.org&amp;nbsp;&#xA;&lt;!-- &lt;i class=&#34;fas fa-up-right-from-square fa-2xs&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-up-right-from-square fa-2xs&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;use href=&#34;#fas-up-right-from-square&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;, compiled by Simon Harrer, Jochen Christ, and Martin Huber.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software as Craft on Software As Craft</title><link>https://www.softwareascraft.com/tags/software-as-craft/</link><description>Recent content in Software as Craft on Software As Craft</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2023 Software as Craft LLC.</copyright><lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate><atom:link href="https://www.softwareascraft.com/tags/software-as-craft/index.xml" rel="self" type="application/rss+xml"/><item><title>Thoughts on Interviewing: II</title><link>https://www.softwareascraft.com/posts/thoughtsoninterviewing-2/</link><pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate><guid>https://www.softwareascraft.com/posts/thoughtsoninterviewing-2/</guid><description>In the first part of this series, I talked a little about how our industry interviews currently and some of the issues I have with the current process.</description></item><item><title>Thoughts on Interviewing: I</title><link>https://www.softwareascraft.com/posts/thoughtsoninterviewing-1/</link><pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate><guid>https://www.softwareascraft.com/posts/thoughtsoninterviewing-1/</guid><description>As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software Development industry.</description></item><item><title>On Software as Craft</title><link>https://www.softwareascraft.com/posts/onsoftwareascraft/</link><pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate><guid>https://www.softwareascraft.com/posts/onsoftwareascraft/</guid><description>As A Craft &amp;nbsp; As a self-proclaimed “Software Crafter”, I view the creation of software as an intricate art form, rather than a routine task akin to plumbing or factory work.</description></item><item><title>Collaborative Programming... Remotely!</title><link>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</link><pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate><guid>https://www.softwareascraft.com/posts/collaborativeprogrammingremotely/</guid><description>One of the most active topics at meet-ups and in online discussion groups in the last few months centers around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software as Craft on Software As Craft</title>
+    <link>http://localhost:1313/tags/software-as-craft/</link>
+    <description>Recent content in Software as Craft on Software As Craft</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023 Software as Craft LLC.</copyright>
+    <lastBuildDate>Thu, 13 Apr 2023 07:30:35 -0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/software-as-craft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Interviewing: II</title>
+      <link>http://localhost:1313/posts/thoughtsoninterviewing-2/</link>
+      <pubDate>Thu, 13 Apr 2023 07:30:35 -0900</pubDate>
+      <guid>http://localhost:1313/posts/thoughtsoninterviewing-2/</guid>
+      <description>&lt;p&gt;In the &#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;    &#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;        &lt;a href=&#34;http://localhost:1313/posts/thoughtsoninterviewing-1/&#34;&gt;first part&lt;/a&gt; of this series, I talked a little about how our industry interviews&#xA;currently and some of the issues I have with the current process. In this post, I want to talk a little more about what&#xA;we should be doing in interviews, and who we&amp;rsquo;re actually trying to hire.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thoughts on Interviewing: I</title>
+      <link>http://localhost:1313/posts/thoughtsoninterviewing-1/</link>
+      <pubDate>Wed, 12 Apr 2023 07:30:35 -0900</pubDate>
+      <guid>http://localhost:1313/posts/thoughtsoninterviewing-1/</guid>
+      <description>&lt;p&gt;As a developer for over 30 years, I’ve come to realize several problems with the way we interview in the Software&#xA;Development industry. Whether it’s because we don’t know how to correctly interview for a development position, or we’re&#xA;not allowed to interview in the way that’s needed, it needs to change.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On Software as Craft</title>
+      <link>http://localhost:1313/posts/onsoftwareascraft/</link>
+      <pubDate>Mon, 03 Apr 2023 14:42:01 -0900</pubDate>
+      <guid>http://localhost:1313/posts/onsoftwareascraft/</guid>
+      <description>&lt;h2 id=&#34;as-a-craft&#34; class=&#34;heading&#34;&gt;As A Craft&lt;a href=&#34;#as-a-craft&#34; aria-labelledby=&#34;as-a-craft&#34;&gt;&#xA;&lt;!-- &lt;i class=&#34;fas fa-link anchor&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-link anchor&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 640 512&#34;&gt;&lt;use href=&#34;#fas-link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;&#xA;    &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;As a self-proclaimed “Software Crafter”, I view the creation of software as an intricate art form, rather than a routine&#xA;task akin to plumbing or factory work. This is not to belittle these professions, which are labor-intensive and require&#xA;mastery of complicated processes, but to highlight the unique complexity inherent in software development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collaborative Programming... Remotely!</title>
+      <link>http://localhost:1313/posts/collaborativeprogrammingremotely/</link>
+      <pubDate>Sun, 02 Apr 2023 14:56:39 -0900</pubDate>
+      <guid>http://localhost:1313/posts/collaborativeprogrammingremotely/</guid>
+      <description>&lt;p&gt;One of the most active topics at meet-ups and in online discussion groups in the last few months centers&#xA;around &amp;ldquo;what works&amp;rdquo; and &amp;ldquo;what doesn&amp;rsquo;t work&amp;rdquo; when collaborative programming in our new era of all remote work. Over time,&#xA;the one list of &amp;ldquo;do&amp;rsquo;s&amp;rdquo; and &amp;ldquo;don&amp;rsquo;ts&amp;rdquo; that has made it&amp;rsquo;s way to the forefront of discussions is the list at&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&lt;a href=&#34;https://remotemobprogramming.org&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer nofollow&#34;&gt;remotemobprogramming.org&amp;nbsp;&#xA;&lt;!-- &lt;i class=&#34;fas fa-up-right-from-square fa-2xs&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-up-right-from-square fa-2xs&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;use href=&#34;#fas-up-right-from-square&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;, compiled by Simon Harrer, Jochen Christ, and Martin Huber.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

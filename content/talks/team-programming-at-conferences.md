@@ -43,7 +43,7 @@ Finally, we'll discuss how to transition to a Whole Team approach and the benefi
 - Understand some of the tools and resources available for collaboration as a "Whole Team".
 
 ### Workshop Dates
-{{< table "table-hover" >}}
+{{< table class="table-hover" >}}
 | Date       | Location                                                                                                               |  
 |------------|------------------------------------------------------------------------------------------------------------------------|  
 | 2023-05-10 | [Agile Manchester 2023](https://agilemanchester.net/)                                                                  |  
@@ -52,7 +52,7 @@ Finally, we'll discuss how to transition to a Whole Team approach and the benefi
 {{< /table >}}
 
 ### Videos
-{{< table "table-hover" >}}
+{{< table class="table-hover" >}}
 | Date       | URL                                                    |
 |------------|--------------------------------------------------------|
 | 2023-07-19 | [YouTube](https://www.youtube.com/watch?v=3BcegnvAaag) |

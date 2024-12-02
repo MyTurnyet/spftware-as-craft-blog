@@ -118,14 +118,14 @@
 # toml-docs-end managed-links
 
 [style]
-primary = "#2B6CB0"
-secondary = "#4A5568"
-success = "#38A169"
-info = "#3182CE"
-warning = "#ED8936"
-danger = "#E53E3E"
-light = "#F7FAFC"
-dark = "#1A202C"
+    primary = "#2B6CB0"
+    secondary = "#4A5568"
+    success = "#38A169"
+    info = "#3182CE"
+    warning = "#ED8936"
+    danger = "#E53E3E"
+    light = "#F7FAFC"
+    dark = "#1A202C"
 
 
 [[params.plugins.css]]

@@ -106,12 +106,13 @@ defaultContentLanguageInSubdir = false
         source = "content/en/docs/latest"
         target = "content/docs/1.0"
         lang = 'en'
-    [[module.mounts]]
-        source = "content/en"
-        target = "content"
-        lang = 'en'
-        excludeFiles = 'docs/latest/*'
     [[module.imports]]
         path = "github.com/gethinode/hinode"
     [[module.imports]]
         path = "github.com/gethinode/mod-fontawesome"
+
+[modules]
+    core = ["bootstrap", "flexsearch", "fontawesome"]
+    optional = ["leaflet", "katex"]
+    excludeSCSS = ["bootstrap"]
+    disableTemplate = ["katex"]

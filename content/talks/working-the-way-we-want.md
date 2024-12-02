@@ -41,7 +41,7 @@ this work, along with how you can implement some or all of these ideas at your c
 - Understand techniques for improving your team processes and culture.
 
 ### Presentation Dates
-{{< table "table-hover" >}}
+{{< table class="table-hover" >}}
 | Date       | Location                                                                                 | Recording Link                                         |
 |------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 2022-10-19 | [AgileIndia 2022](https://2022.agileindia.org/)                                          | [YouTube](https://youtu.be/t1z2nNapPzQ)                |

@@ -38,7 +38,7 @@ will get to participate in a simple, but effective example of practices they can
   just developers.
 
 ### Presentation Dates
-{{< table "table-hover" >}}
+{{< table class="table-hover" >}}
 | Date       | Location                                                                        | Recording Link                          |
 |------------|---------------------------------------------------------------------------------|-----------------------------------------|
 | 2023-04-06 | [Industrial Logic Twitter Space](https://twitter.com/IndustrialLogic)           | [YouTube - Audio Only](https://youtu.be/4htssaCZgq8) |
