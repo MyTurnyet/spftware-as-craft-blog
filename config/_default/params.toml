@@ -166,3 +166,8 @@ webshare = true
     weight = 50
     clipboard = true
     target = "_blank"
+
+[analytics]
+    [analytics.goatcounter]
+        name = "softwareascraft"
+        enable = true
