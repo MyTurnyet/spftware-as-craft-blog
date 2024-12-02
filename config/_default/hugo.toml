@@ -1,7 +1,7 @@
 title = "Software As Craft"
 baseURL = 'https://www.softwareascraft.com/'
 copyright = "Copyright © 2023 Software as Craft LLC."
-paginate = 9
+pagination.pagerSize = 9
 enableGitInfo = false
 endorse = false
 
@@ -40,28 +40,31 @@ defaultContentLanguageInSubdir = false
         privacyEnhanced = true
 
 [sharing]
-    enabled = true
+    enabled = false
     sort = "weight"
     reverse = false
-    webshare = true
+    webshare = false
 
 [[sharing.providers]]
     name = "Bluesky"
     url = "https://bsky.app/intent/compose?text=Check%20out%20this%20great%20blog%20post%20by%20%40softwareascraft.com%3A%0A{title}%3A%0A{url}"
-    icon = "fas bug"
+    icon = "fab bluesky"
     weight = 10
+    target = "_blank"
 
 [[sharing.providers]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
     icon = "fab linkedin"
     weight = 20
+    target = "_blank"
 
 [[sharing.providers]]
     name = "Facebook"
-    url = "https://www.facebook.com/sharer.php?u={url}"
+    url = "https://www.facebook.com/sharer.php?u={url}FOOOO!"
     icon = "fab facebook"
     weight = 30
+    target = "_blank"
 
 [[sharing.providers]]
     name = "email"
@@ -69,6 +72,7 @@ defaultContentLanguageInSubdir = false
     icon = "fas link"
     weight = 50
     clipboard = true
+    target = "_blank"
 
 [outputFormats]
     [outputFormats.XML]
