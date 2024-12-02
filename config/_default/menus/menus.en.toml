@@ -28,7 +28,7 @@
 
 [[social]]
   name = "BlueSky"
-  pre = "fas bug"
+  pre = "fab bluesky"
   url = "https://bsky.app/profile/softwareascraft.com"
   weight = 10
 
