@@ -1,6 +1,6 @@
 ---
 title: Working The Way We Want
-date: 2023-04-09 15:00:26 -0900
+date: 2023-06-27 15:00:26 -0900
 draft: false
 description: A case-study talk on how we used a modified Open Space marketplace to dynamically reteam around work.
 thumbnail:

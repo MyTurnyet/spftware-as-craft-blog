@@ -1,6 +1,6 @@
 ---
 title: Deliberate Practice
-date: 2023-04-09 15:00:26 -0900
+date: 2024-05-16 15:00:26 -0900
 draft: false
 description: The ROI of effectively learning as a team
 thumbnail:

@@ -1,6 +1,6 @@
 ---
 title: Team Programming - Conference Workshop
-date: 2023-04-09 15:00:26 -0900
+date: 2023-07-19 15:00:26 -0900
 draft: false
 description: Learn to effectively collaborate with your team to create quality software.
 thumbnail:
