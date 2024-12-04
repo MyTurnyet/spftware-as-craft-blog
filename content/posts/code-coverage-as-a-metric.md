@@ -1,6 +1,6 @@
 ---
 title: 'Code Coverage as a Metric'
-date: 2024-12-04T09:53:19-08:00
+date: 2024-12-04 15:00:26 -0900
 draft: true
 description: Code Coverage is a terrible metric and gives a false sense of security.
 thumbnail:
