@@ -4,19 +4,19 @@ date: 2023-04-13 07:30:35 -0900
 draft: false
 description: Our interview process is broken.  Here's the second in a two-part series on my observations and ideas to fix the process.
 thumbnail:
-    url: /img/interviewing-2.jpg
-    author: Cytonn Photogrphy
-    authorURL: https://unsplash.com/@cytonn_photography
-    originURL: https://unsplash.com/photos/two-people-shaking-hands-n95VMLxqM2I
-    origin: Unsplash
+  url: /img/interviewing-2.jpg
+  author: Cytonn Photogrphy
+  authorURL: https://unsplash.com/@cytonn_photography
+  originURL: https://unsplash.com/photos/two-people-shaking-hands-n95VMLxqM2I
+  origin: Unsplash
 
 tags:
-- Interviewing
-- Hiring
-- Software as Craft
+  - Interviewing
+  - Hiring
+  - Software as Craft
 ---
 
-In the [first part][1] of this series, I talked a little about how our industry interviews
+In the [first part]["previous"] of this series, I talked a little about how our industry interviews
 currently and some of the issues I have with the current process. In this post, I want to talk a little more about what
 we should be doing in interviews, and who we're actually trying to hire.
 
@@ -49,8 +49,10 @@ Still, a person applying for a job as a software developer needs to know how to 
 
 ## The Six Minute Interview
 
-{{< link llewelyn-falco-li >}}Llewellyn Falco{{< /link >}} developed a challenge for gaining knowledge of a candidates ability in a
-fairly quick way. He calls it '[The Six Minute Interview][2]'. I have written several versions of this challenge and added
+{{< link llewelyn-falco-li >}}Llewellyn Falco{{< /link >}} developed a challenge for gaining knowledge of a candidates
+ability in a
+fairly quick way. He calls it '[The Six Minute Interview]["six-minute"]'. I have written several versions of this
+challenge and added
 them to my personal GitHub repository.
 
 This challenge works best online, and usually can be set-up as a fifteen-minute screen. The main idea is that after six
@@ -171,10 +173,10 @@ shortest time possible. A person will never get better or change if they don't h
 
 It all comes down to hiring and ensuring we have a good fit for the team and the company. Hiring for software
 development shouldn't be a body in seat process, nor should it be a search for "good enough". These are my thoughts on
-the process and I would love to hear your feedback. Our industry is still new enough and our processes are ever
-changing, and because of this, we need to continually update and refine our hiring processes, not to find the person
+the process and I would love to hear your feedback. Our industry is still new enough and our processes are
+ever-changing, and because of this, we need to continually update and refine our hiring processes, not to find the
+person
 that fits the position, but the person that better the team and the company.
 
-
-[1]:{{% relref thoughtsoninterviewing-1.md %}}
-[2]:{{% relref sixminuteinterview.md %}}
+["previous"]:{{% relref thoughtsoninterviewing-1.md %}}
+["six-minute"]:{{% relref sixminuteinterview.md %}}

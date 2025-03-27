@@ -46,7 +46,7 @@ Here’s an example of the what I see with a majority of companies trying to hir
 
 The cycle goes like this:
 
-#### Gatekeepers
+### Gatekeepers
 
 Resume’s get submitted to HR recruiting manager.
 
@@ -54,11 +54,11 @@ This person may know a little about what’s actually needed for the position, o
 I’m not going to stick on this step, as often it’s easy to pass through, either by listing correct words on the resume,
 or getting a referral to a position from an insider.
 
-#### “Quick Chat” with the hiring manager
+### “Quick Chat” with the hiring manager
 
 Again, a simple check to make sure that the applicant is personable and has an idea of how to do the work of the team.
 
-#### Initial Contact
+### Initial Contact
 
 _(optional)_ The applicant gets a timed code challenge using an online IDE like HackerRank  
 An hour-long “Phone Interview” with a Senior or Lead Developer/Architect/Engineer.  
@@ -68,7 +68,7 @@ Not a great step in the process. Most often the interviewer is looking for keywo
 position they are trying to fill. This is also the time for the applicant to write code in an online IDE, basically
 “online white-boarding”
 
-#### White Boarding
+### White Boarding
 
 Let's stop here a moment and talk about “_online white-boarding_”, whether in the guise of a timed challenge or as we
 often hear:
@@ -88,7 +88,7 @@ every day for your regular work.
 
 **No one that I know develops on a whiteboard.**
 
-#### The Loop
+### The Loop
 
 “The Loop” has become an industry standard for the interview process, and it makes sense. This is where a candidate
 meets with three or four different interviewers over a couple of hours. This process lets the company schedule a time
@@ -106,7 +106,7 @@ This is usually the last step before a decision is made to hire or not.
 Which is good as it means the candidate doesn’t have to wait long for an answer,
 but in most cases, the company still hasn’t seen the candidate write code with the team.
 
-#### No Feedback
+### No Feedback
 
 Finally, most companies nowadays will not give feedback on how a candidate did in an interview.
 This is a mainly fear-based decision from HR, so that the company doesn’t expose itself to a possible lawsuit or legal

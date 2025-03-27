@@ -54,16 +54,16 @@ Then, read them this script:
 > You will not be judged on whether you finish the problem,  
 > so please take your time and work through it as you would without a time constraint.
 >
->   The object of this challenge is to make all the tests pass.   
+> The object of this challenge is to make all the tests pass.   
 > You will not finish this challenge. That is okay.
 >
->   Please talk aloud about what your thinking as you go through the challenge.   
+> Please talk aloud about what your thinking as you go through the challenge.   
 > You may ask any questions.I may or may not answer them.
 >
->   I may give you hints and help throughout the challenge.   
->  That doesn't mean you are doing badly, it means I want to emphasize or help you along.
+> I may give you hints and help throughout the challenge.   
+> That doesn't mean you are doing badly, it means I want to emphasize or help you along.
 >
->   At the end of six minutes, please stop typing where you are.
+> At the end of six minutes, please stop typing where you are.
 
 Then after the challenge, you may engage a discussion if you think it would be beneficial to you or the candidate.
 
@@ -76,17 +76,17 @@ Here are a list of things to look for when administering this during an intervie
 - You should be using the IDE that is used regularly as part of your
   work.
 - If they are having issues, ask yourself:
-    - Do they know how to use another IDE?
-    - Are they using Hot Keys or shortcuts?
-    - If you tell them a shortcut, will they incorporate your feedback?
+  - Do they know how to use another IDE?
+  - Are they using Hot Keys or shortcuts?
+  - If you tell them a shortcut, will they incorporate your feedback?
 
 **Do they know the language?**
 
 - You should be using a language that is used regularly as part of your work.
 - If they don’t, it’s not a disqualification, as long as you can answer yes to the following:
-    - Do they know another similar language?
-    - Do they understand Object-Oriented languages?
-    - Can they learn this language?
+  - Do they know another similar language?
+  - Do they understand Object-Oriented languages?
+  - Can they learn this language?
 
 **Do they know about tests?**
 
@@ -94,7 +94,7 @@ Here are a list of things to look for when administering this during an intervie
 - Did they run them before making changes to the code?
 - Did they run them all, or focus on a single test?
 - What were they focusing on in the tests?
-    - Unit testing, Functional testing, Code Coverage numbers?
+  - Unit testing, Functional testing, Code Coverage numbers?
 
 **How long did it take to get a passing test?**
 

@@ -35,6 +35,7 @@ because the team members don’t want to take time to learn? Maybe. More likely 
 all working hours (and often a few more) focused on getting the current project out the door.
 
 ## Where to Start
+
 One of the easiest ways a company can create an environment where its workers want to come to work is to promote
 learning as a cultural value.
 

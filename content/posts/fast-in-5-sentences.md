@@ -40,8 +40,8 @@ for each work item. The important thing is that it radiates information about th
 
 ### 3 - Have a meeting where the Collective self-organizes and self-selects into teams.
 
-Each Value Cycle, the Collective comes together as a group to organize around "*the next most important thing that the
-product doesn't do.*" They select the work for the next Value Cycle, create teams, and clarify direction and focus. In
+Each Value Cycle, the Collective comes together as a group to organize around "_the next most important thing that the
+product doesn't do._" They select the work for the next Value Cycle, create teams, and clarify direction and focus. In
 FaST, we use a modified Open-Space marketplace to encourage emergent leadership and team responsibility for work.
 
 ### 4 - Work.
