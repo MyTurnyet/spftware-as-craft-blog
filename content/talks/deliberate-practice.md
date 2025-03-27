@@ -32,12 +32,14 @@ done (and continue to do) at companies that teach Deliberate Practice, and the p
 will get to participate in a simple, but effective example of practices they can start with their teams immediately.
 
 ### Learning Outcomes
+
 - Understand the concepts of Deliberate Practice and Learning-Performance Distinction.
 - Learn how to effectively practice with tools like Code Katas and Sparrow Decks
 - Understand the outcomes that learning as a group will bring to the team, and how to expand those outcomes to more than
   just developers.
 
 ### Presentation Dates
+
 {{< table class="table-hover" >}}
 | Date       | Location                                                                        | Recording Link                          |
 |------------|---------------------------------------------------------------------------------|-----------------------------------------|
@@ -45,14 +47,16 @@ will get to participate in a simple, but effective example of practices they can
 | 2023-04-20 | [Code Craft UK](https://www.codecraftuk.org/events/2023/04/deliberate-practice) | [YouTube](https://youtu.be/-IZ2cu191dA) |
 | 2023-08-14 | [Managing Software Teams in Seattle Meetup](https://www.meetup.com/managing-software-teams-in-seattle/events/294060653/) | [YouTube](https://youtu.be/YEZSK9JqYT4) |
 | 2024-05-09 | [Philly XP](https://www.meetup.com/PhillyXP/events/300473620) | [YouTube](https://youtu.be/L0Jmdo6m8_0) |
-| 2024-05-16 | Agile Manchester 2024 | |
-| 2024-05-16 | Software Crafters Manchester | |
+| 2024-05-16 | Agile Manchester 2024 | &nbsp; |
+| 2024-05-16 | Software Crafters Manchester | &nbsp; |
 {{< /table >}}
 
 ### Resources
+
 - {{< link "https://github.com/MyTurnyet/Talks/blob/main/deliberate-practice/Deliberate%20Practice.pdf" >}}Slide deck{{< /link >}} - updated 2023-04-19
 
 ### Links
+
 Llewellyn Falco's {{< link "http://llewellynfalco.blogspot.com/p/sparrow-decks.html" >}}Sparrow Decks{{< /link >}}
 - Youtube talk on Sparrow Decks
 

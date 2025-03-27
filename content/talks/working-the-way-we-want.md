@@ -34,6 +34,7 @@ Along with this, I'll talk about how other roles, like scrum masters and manager
 this work, along with how you can implement some or all of these ideas at your company.
 
 ### Learning Outcomes
+
 - Explain the Practices and Processes of **FAST**.
 - Explain Dynamic Re-Teaming, and why it's so effective for teams.
 - Understand why Self-Selection of work increases Team Responsibility and Team Ownership of work.
@@ -41,7 +42,9 @@ this work, along with how you can implement some or all of these ideas at your c
 - Understand techniques for improving your team processes and culture.
 
 ### Presentation Dates
+
 {{< table class="table-hover" >}}
+
 | Date       | Location                                                                                 | Recording Link                                         |
 |------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 2022-10-19 | [AgileIndia 2022](https://2022.agileindia.org/)                                          | [YouTube](https://youtu.be/t1z2nNapPzQ)                |
@@ -49,6 +52,7 @@ this work, along with how you can implement some or all of these ideas at your c
 | 2022-04-23 | [Agile Virtual Summit Lightning Talks](https://agilevirtualsummit.com//)                 |                                                        |
 | 2023-05-10 | [Agile Manchester](https://agilemanchester.net/)                                         |                                                        |
 | 2023-06-27 | [PhillyXP](https://www.meetup.com/phillyxp/)                                             | [YouTube](https://www.youtube.com/watch?v=GnPozFRC92o) |
+
 {{< /table >}}
 
 ### Resources
@@ -57,12 +61,14 @@ this work, along with how you can implement some or all of these ideas at your c
 - {{< link "https://github.com/MyTurnyet/Talks/blob/main/working-the-way-we-want/Working%20the%20Way%20We%20Want%20-%20Lightning%20Talk.pdf" >}}Lightning Talk Slide deck{{< /link >}} - updated 2023-05-10
 
 ### Links
+
 {{< link "https://www.fastagile.io/home" >}}FAST-Agile{{< /link >}}  
 {{< link "https://www.industriallogic.com/blog/discovery-trees/" >}}Discovery Trees{{< /link >}}  
 {{< link "https://openspaceworld.org/wp2/" >}}Open Space World{{< /link >}}  
 {{< link "https://www.heidihelfand.com/dynamic-reteaming/" >}}Dynamic ReTeaming{{< /link >}}
 
 #### Books
+
 {{< link fast-guide >}}FAST Guide{{< /link >}} - Ron Quartel   
 {{< link "https://www.amazon.com/Open-Space-Technology-Users-Guide/dp/1576754766" >}}Open Space Technology: A Users Guide{{< /link >}} - Harrison Owen  
 {{< link book-drive >}}Drive: The surprising truth about what motivates us{{< /link >}} - Daniel Pink

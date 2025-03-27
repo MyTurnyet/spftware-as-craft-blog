@@ -36,6 +36,7 @@ Team programming process.
 Finally, we'll discuss how to transition to a Whole Team approach and the benefits, and pitfalls, that surround it.
 
 ### Learning Outcomes
+
 - Understand the benefits of collaborative programming over individual programming.
   -Gain first-hand experience writing code as a group.
 - Understanding of the practices of mobbing/ensemble programming.
@@ -44,24 +45,31 @@ Finally, we'll discuss how to transition to a Whole Team approach and the benefi
 
 ### Workshop Dates
 {{< table class="table-hover" >}}
+
 | Date       | Location                                                                                                               |  
 |------------|------------------------------------------------------------------------------------------------------------------------|  
 | 2023-05-10 | [Agile Manchester 2023](https://agilemanchester.net/)                                                                  |  
 | 2023-07-19 | [Technical Excellence Meetup (UK)](https://www.meetup.com/techexcellence/events/294438248/)                            |  
-| 2023-07-27 | [Agile2023 Conference](https://events.agilealliance.org/Agile2023/session/1423762/whole-team-programming-paige-watson) |  
+| 2023-07-27 | [Agile2023 Conference](https://events.agilealliance.org/Agile2023/session/1423762/whole-team-programming-paige-watson) |
+
 {{< /table >}}
 
 ### Videos
+
 {{< table class="table-hover" >}}
+
 | Date       | URL                                                    |
 |------------|--------------------------------------------------------|
 | 2023-07-19 | [YouTube](https://www.youtube.com/watch?v=3BcegnvAaag) |
+
 {{< /table >}}
 
 ### Resources
+
 - {{< link "https://github.com/MyTurnyet/Talks/blob/main/whole-team-programming/Whole%20Team%20Programming%20Workshop.pdf" >}}Slide deck{{< /link >}} - updated 2023-05-06
 
 ### Links
+
 Workshop Github repository: {{< link "https://github.com/MyTurnyet/wholeteam_js" />}}  
 Numbers To Words kata: {{< link "https://www.tddbuddy.com/katas/numbers-to-words.html" />}}
 
@@ -72,5 +80,6 @@ Jay Bazuzi's {{< link "https://jay.bazuzi.com/Mobbing-Pattern-Language/" >}}Mobb
 
 
 #### Books
+
 {{< link "https://www.amazon.com/Software-Teaming-Programming-Whole-Team-Approach/dp/B0BLG1QTYK" >}}Software Teaming: A Mob Programming, Whole-Team Approach{{< /link >}} - Woody Zuill and Kevin Meadows  
 {{< link "https://www.amazon.com/Code-Wisdom-Crowd-Together-Programming/dp/1680506153" >}}Code with the Wisdom of the Crowd: Get Better Together with Mob Programming{{< /link >}} - Mark Pearl

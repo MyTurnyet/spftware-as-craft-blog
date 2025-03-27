@@ -29,20 +29,26 @@ We will delve into:
 - Applying the Strangler Fig Pattern to incrementally refactor code without breaking existing functionality
 
 ### Learning Outcomes
+
 - Understand the concepts of the Strangler Fig Pattern
 - Use Interfaces and Dependency Injection to isolate legacy code to be changed
 - Learn the benefits for using the Strangler Fig Pattern as opposed to an application rewrite
 
 ### Presentation Dates
+
 {{< table class=class="table-hover" >}}
+
 | Date       | Location                                                                                 | Recording Link                                         |
 |------------|------------------------------------------------------------------------------------------|--------------------------------------------------------|
 | 2024-07-09 | [Tek Caffe](https://www.linkedin.com/company/tek-caffe/)                                          | [YouTube](https://www.youtube.com/live/5k5r6QMt6Xk)                |
+
 {{< /table >}}
 
 ### Resources
+
 {{< link "https://prezi.com/p/edit/7zadgc933w57/" >}}Slide Deck{{< /link >}}
 
 ### Links
+
 {{< link "https://github.com/MyTurnyet/BadElevator" >}}Bad Elevator{{< /link >}} code base for practice (Java)  
 Llewellyn Falco's {{< link "https://youtu.be/wp6oSVDdbXQ?si=yUx2lLEwks8TZB-t" >}}Youtube talk{{< /link >}} on referenced in the Tek Caffe video

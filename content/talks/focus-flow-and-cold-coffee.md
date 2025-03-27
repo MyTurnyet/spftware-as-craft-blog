@@ -36,12 +36,15 @@ powerful asset in tech**.
 ### Presentation Dates
 
 {{< table class="table-hover" >}}
+
 | Date | Location | Recording Link |
 |------------|---------------------------------------------------------------------------------|-----------------------------------------|
 | 2025-04-03 | Iowa .Net Users Group | no recording yet |
+
 {{< /table >}}
 
 ### Resources
+
 - no slides yet
 
 ### Links
