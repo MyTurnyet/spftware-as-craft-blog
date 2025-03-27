@@ -1,5 +1,5 @@
 ---
-title: Focus Flow and Cold Coffee
+title: Focus, Flow, and Cold Coffee
 date: 2025-03-25 08:36:26 -0900
 draft: false
 description: How my ADHD made me a better programmer
