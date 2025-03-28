@@ -28,12 +28,12 @@ there to be a significantly higher chance of defects and less maintainability?"
 Before going into my thoughts on the use of code coverage as a metric, I want to set the definition of what "Code
 Coverage" means when I talk about it.
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Code_coverage):
+According to {{< link "https://en.wikipedia.org/wiki/Code_coverage" >}}Wikipedia{{< /link >}}:
 "In software engineering, code coverage, also called test coverage, is a percentage measure of the degree to which the
 source code of a program is executed when a particular test suite is run."
 
-[Sonarqube](https://www.sonarsource.com/) uses
-a [mathematical formula](https://docs.sonarsource.com/sonarqube-server/9.9/user-guide/metric-definitions/#tests) to
+{{< link "https://www.sonarsource.com/" >}}Sonarqube{{< /link >}} uses
+a {{< link "https://docs.sonarsource.com/sonarqube-server/9.9/user-guide/metric-definitions/#tests" >}}mathematical formula{{< /link >}} to
 calculate coverage based on evaluating testing of line and conditionals within a file:
 > Coverage (coverage): A mix of **Line coverage** and **Condition coverage**. It's goal is to provide an even more
 > accurate answer the question  
@@ -53,15 +53,16 @@ automated tests, either unit, integration or functional in nature.
 
 The problem with a metric like "Code Coverage" is that it focuses and rewards an outcome, and not a behavior.
 
-In
-_[The Tyranny of Metrics](https://www.amazon.com/Tyranny-Metrics-Jerry-Z-Muller-ebook/dp/B07K458MZG)_, [Jerry Z. Muller](https://press.princeton.edu/our-authors/muller-jerry-z)
+In {{< link "https://www.amazon.com/Tyranny-Metrics-Jerry-Z-Muller-ebook/dp/B07K458MZG" >}}_The Tyranny of Metrics_{{< /link >}},
+{{< link "https://press.princeton.edu/our-authors/muller-jerry-z" >}}Jerry Z. Muller{{< /link >}}
 argues that an over-reliance on quantitative metrics often leads to counterproductive behaviors, where the numbers
 themselves become the goal rather than the underlying quality they were meant to measure. This phenomenon is
 particularly evident in software development, where code coverage is frequently used as a proxy for test quality.
 Teams aiming for an arbitrary coverage percentage—say, 90%—often end up writing superficial or meaningless tests just to
 satisfy the metric, rather than focusing on whether those tests genuinely improve the reliability and maintainability of
 the system.  
-To paraphrase [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When coverage becomes a target rather
+
+To paraphrase {{< link "https://en.wikipedia.org/wiki/Goodhart%27s_law" >}}Goodhart's Law{{< /link >}}: When coverage becomes a target rather
 than an informative tool, it encourages gaming the system rather than
 writing thoughtful, valuable tests.
 
