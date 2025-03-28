@@ -107,6 +107,7 @@
     calendly = "https://calendly.com/paige-watson"
     fast-io ="https://fastagile.io"
     fast-guide = "https://www.fastagile.io/fast-guide"
+    kuo-discovery-trees = "https://www.katanation.com/single-post/working-with-discovery-trees-by-steve-kuo"
     llewelyn-falco-li = "https://www.linkedin.com/in/llewellynfalco"
     llewelyn-falco-github = "https://github.com/isidore"
     mob-sh = "https://mob.sh"
@@ -114,6 +115,7 @@
     myturn-yet-talks = "/talks"
     ottinger-scatter-gather = "https://www.industriallogic.com/blog/scatter-gather/"
     remote-mob-programming = "https://remotemobprogramming.org"
+    tdd-wikipedia = "https://en.wikipedia.org/wiki/Test-driven_development"
 
 # toml-docs-end managed-links
 

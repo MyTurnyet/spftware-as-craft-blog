@@ -23,14 +23,15 @@ thinking are essential. But what if I told you that the same traits that make AD
 **exceptional developers** when we learn to work with our brains, not against them?
 
 In this series, I’ll share how ADHD has shaped my journey as a developer, and how practices like  
-**Test-Driven Development (TDD), Mob Programming,** and **Discovery Trees** have helped me turn my  
-ADHD-related struggles into strengths.
+{{< link tdd-wikipedia >}}**Test-Driven Development (TDD)**{{< /link >}}, 
+{{< link "talks/team-programming-at-conferences/" >}}**Collaborative Programming**{{< /link >}}, and 
+{{< link kuo-discovery-trees >}}**Discovery Trees**{{< /link >}} have helped me turn my ADHD-related struggles into strengths.
 
 ## ADHD: More Than Just “Can’t Focus”
 
 When people hear ADHD, they usually think of **lack of focus**, but that’s only part of the story.
 
-**[Attention-Deficit/Hyperactivity Disorder (ADHD)](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder)**
+{{< link "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder" >}}**Attention-Deficit/Hyperactivity Disorder (ADHD)**{{< /link >}}
 is a neurodevelopmental condition that affects how a person regulates attention, impulses, and activity levels. It's
 not about having no attention, it’s about having inconsistent control over where attention goes.
 
@@ -47,9 +48,12 @@ I can easily forget important details, but somehow remember **obscure code snipp
 ## How ADHD Shows Up in Software Development
 
 For years, I thought I was just **bad at being a developer**. My brain didn’t seem to work like everyone else’s.  
-I’d get overwhelmed by large tasks. Staring at a massive user story felt _impossible_ to start.
+I’d get overwhelmed by large tasks. User stories felt _impossible_ to start, and as a result, I would "_shut down_" and
+not start at all.
 
-I’d struggle with prioritization. Everything felt **equally urgent, or not urgent at all**.  
+I’d struggle with prioritization. What I thought would be the _most_ important think to work on often turn out to be of lesser
+importance to others, or not even a priority to get the job done. Everything felt **equally urgent, or not urgent at all**.  
+
 Context switching drained me. Jumping between bug fixes, feature work, and Slack messages left me mentally exhausted.
 
 I’d **hyper-focus** on the wrong thing. Spending hours tweaking a UI detail, or refactoring a class, while forgetting an
@@ -62,11 +66,11 @@ started finding **software development practices that actually helped**.
 
 The breakthrough for me was realizing that **some of the best coding practices are also great ADHD coping strategies**.
 
-**Test-Driven Development (TDD)** gave me structure and prevented endless debugging spirals.
+{{< link tdd-wikipedia >}}**Test-Driven Development (TDD)**{{< /link >}} gave me structure and prevented endless debugging spirals.
 
-**Collaborative Programming** helped me stay engaged and accountable.
+{{< link "talks/team-programming-at-conferences/" >}}**Collaborative Programming**{{< /link >}} helped me stay engaged and accountable.
 
-**Discovery Trees** helped me break big tasks into tiny, manageable steps.
+{{< link kuo-discovery-trees >}}**Discovery Trees**{{< /link >}} helped me break big tasks into tiny, manageable steps.
 
 In the coming posts, I’ll dive into how each of these practices helped me stop fighting my brain and start working with
 it, and how they might help you, too.

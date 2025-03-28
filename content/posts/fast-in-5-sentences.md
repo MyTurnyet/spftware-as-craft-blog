@@ -31,7 +31,7 @@ work, instead of forming teams and giving them work.
 ### 2 - Throw your work on the wall.
 
 Visually represent business goals and all the work in a place that is accessible to anyone who wants to see it. This
-could be a whiteboard, posters on the wall, or {{< link "https://www.katanation.com/single-post/working-with-discovery-trees-by-steve-kuo" >}}Discovery Trees{{< /link >}}.
+could be a whiteboard, posters on the wall, or {{< link kuo-discovery-trees >}}Discovery Trees{{< /link >}}.
 It could be on an online whiteboard or tool. Give access to everyone that wants to have access.
 
 This doesn't have to be a heavy process. This can be as simple as a Slack channel that hosts screenshots, or demo
