@@ -7,8 +7,8 @@ description: Open Space conferences inspire Fluid Scaling Technology (FaST), a s
 thumbnail:
   url: /img/fast-blur.png
   author: Paige Watson
-#  authorURL: https://softwareascraft.com
-#  originURL: https://softwareascraft.com
+  authorURL: https://softwareascraft.com
+  originURL: https://softwareascraft.com
   origin: My Blog
 
 tags:
