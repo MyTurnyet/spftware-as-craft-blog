@@ -4,10 +4,10 @@ date: 2025-04-02 09:43:26 -0900
 draft: false
 description: My ADHD shows up at work in a number of way, some good, some...  not so good.
 thumbnail:
-  url: /img/plasma-ball.jpg
-  author: Hal Gatewood
-  authorURL: https://unsplash.com/@halacious
-  originURL: https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4
+  url: /img/developer-struggles.jpg
+  author: Fatemeh Rezvani
+  authorURL: https://unsplash.com/@irzvn_
+  originURL: https://unsplash.com/photos/a-man-sitting-in-front-of-two-computer-monitors-Xn3D8DIzH7Q
   origin: Unsplash
 
 author: Paige Watson
