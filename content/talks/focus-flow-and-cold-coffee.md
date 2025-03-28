@@ -45,7 +45,7 @@ powerful asset in tech**.
 
 ### Resources
 
-- no slides yet
+{{< link "https://github.com/MyTurnyet/Talks/blob/main/focus-flow-and-coffee/Focus%2C%20Flow%2C%20and%20Cold%20Coffee.pdf" >}}Slides{{< /link >}} - updated 2025-03-28
 
 ### Links
 
