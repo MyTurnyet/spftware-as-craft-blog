@@ -22,7 +22,9 @@ ADHD is often seen as a challenge—especially in a field like software developm
 thinking are essential. But what if I told you that the same traits that make ADHD difficult can also make us
 **exceptional developers** when we learn to work with our brains, not against them?
 
-In this series, I’ll share how ADHD has shaped my journey as a developer, and how practices like  
+This series is a companion to my talk 
+"{{< link "talks/focus-flow-and-cold-coffee" >}}**Focus, Flow, and Cold Coffee**{{< /link >}}", and in it, I’ll share how
+ADHD has shaped my journey as a developer, and how practices like
 {{< link tdd-wikipedia >}}**Test-Driven Development (TDD)**{{< /link >}}, 
 {{< link "talks/team-programming-at-conferences/" >}}**Collaborative Programming**{{< /link >}}, and 
 {{< link kuo-discovery-trees >}}**Discovery Trees**{{< /link >}} have helped me turn my ADHD-related struggles into strengths.
