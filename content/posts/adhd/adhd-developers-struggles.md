@@ -94,7 +94,9 @@ Discovery Tree so that I can address it at the
 ## Rejection Sensitivity Dysphoria: The Emotional Toll
 
 ADHD doesn’t just impact focus and memory, it can also have a significant emotional component. Many people with ADHD
-experience **Rejection Sensitivity Dysphoria (RSD)**, a condition where **perceived criticism or rejection feels
+experience
+{{< link "https://www.additudemag.com/rejection-sensitive-dysphoria-and-adhd/?srsltid=AfmBOorN2FOdVqYiZFyv3hiC9c3zigpS2ErFzj4030HKTuddlt6949v7" >}}
+**Rejection Sensitivity Dysphoria (RSD)**{{< /link >}}, a condition where **perceived criticism or rejection feels
 intensely
 painful**, sometimes even debilitating.
 
