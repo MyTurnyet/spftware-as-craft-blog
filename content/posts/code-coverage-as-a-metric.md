@@ -42,7 +42,7 @@ calculate coverage based on evaluating testing of line and conditionals within a
 > Coverage = (CT + LC)/(B + EL) where:  
 > CT = conditions that have been evaluated to 'true' at least once  
 > CF = conditions that have been evaluated to 'false' at least once  
-> LC = covered lines = linestocover - uncovered_lines  
+> LC = covered lines = lines_to_cover - uncovered_lines  
 > B = total number of conditions  
 > EL = total number of executable lines (lines_to_cover)
 
@@ -61,7 +61,8 @@ particularly evident in software development, where code coverage is frequently 
 Teams aiming for an arbitrary coverage percentage—say, 90%—often end up writing superficial or meaningless tests just to
 satisfy the metric, rather than focusing on whether those tests genuinely improve the reliability and maintainability of
 the system.  
-To paraphrase [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When coverage becomes a target rather than an informative tool, it encourages gaming the system rather than
+To paraphrase [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law): When coverage becomes a target rather
+than an informative tool, it encourages gaming the system rather than
 writing thoughtful, valuable tests.
 
 > "When a measure becomes a target, it ceases to be a good measure"  
