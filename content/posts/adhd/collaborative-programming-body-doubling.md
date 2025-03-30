@@ -16,6 +16,7 @@ tags:
   - Neurodiversity
   - Software Development
   - Quality Code
+  - Collaborative Programming 
 ---
 
 If you’ve ever struggled to stay focused while coding alone but suddenly became ultra-productive when working next to
