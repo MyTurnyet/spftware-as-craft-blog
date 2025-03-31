@@ -1,6 +1,6 @@
 ---
 title: 'TDD: The Ultimate ADHD-Friendly Development Practice'
-date: 2025-03-10 13:01:26 -0900
+date: 2025-04-10 13:01:26 -0900
 draft: false
 description: How Test-Driven Development helps with cognitive overload, decision paralysis, and debugging distractions.
 thumbnail:
