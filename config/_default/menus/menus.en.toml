@@ -1,24 +1,29 @@
 [[main]]
   name = "Home"
   pageRef = "/"
-  weight = 10
+  weight = 5
 
 [[main]]
   name = "Posts"
   pageRef = "/posts"
   weight = 10
 
+[[main]]
+  name = "Coding with ADHD"
+  pageRef = "/posts/adhd"
+  weight = 20
+
 
 [[main]]
   name = "Talks"
   pageRef = "/talks"
-  weight = 10
+  weight = 30
 
 
 [[main]]
   name = "Workshops"
   pageRef = "/workshops"
-  weight = 10
+  weight = 40
 
 [[social]]
   name = "LinkedIn"
