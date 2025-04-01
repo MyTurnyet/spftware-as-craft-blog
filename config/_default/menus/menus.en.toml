@@ -35,7 +35,7 @@
   name = "BlueSky"
   pre = "fab bluesky"
   url = "https://bsky.app/profile/softwareascraft.com"
-  weight = 10
+  weight = 15
 
 [[social]]
   name = "GitHub"
