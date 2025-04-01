@@ -106,12 +106,6 @@ of
 suggested changes left me feeling completely inadequate, even when I logically knew the feedback was meant to improve
 the code, not tear me down.
 
-[//]: # (To manage RSD, I remind myself that feedback is about the work, not about me. I also try to reframe feedback as a)
-
-[//]: # (learning opportunity rather than as a judgment of my abilities. Having a supportive team culture helps tremendously—when)
-
-[//]: # (feedback is framed constructively and with encouragement, it becomes much easier to process.)
-
 Surrounding myself with people who recognize my strengths and provide encouragement has been invaluable.
 {{< link "talks/team-programming-at-conferences" >}}**Collaborative Programming**{{< /link >}} practices are immensely
 helpful as I receive _constant gentle course-correct feedback_ from my team as we work.  This makes it a safe
