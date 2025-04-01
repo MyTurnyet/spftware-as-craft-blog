@@ -20,7 +20,7 @@
 
 
 [home]
-    sections = ["posts", "talks", "workshops"]
+    sections = ["posts", "adhd", "talks", "workshops"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -31,6 +31,10 @@
         align = "start"
 [posts]
     fullCover = true
+    centerHeadline = false
+    style = ""
+[adhd]
+    fullCover = false
     centerHeadline = false
     style = ""
 
@@ -49,6 +53,21 @@
         orientation = "stacked"
         style = "border-1 card-zoom"
         homepage = 8
+        separator = true
+    [sections.adhd]
+        title = "Developing with ADHD"
+        buttonType = "link"
+        sort = "date"
+        reverse = true
+        cols = 4
+        color = ""
+        padding = "2"
+        header = "publication"
+        footer = "tags"
+        orientation = "stacked"
+        style = "border-1 card-zoom"
+        homepage = 8
+        separator = true
     [sections.talks]
         title = "Talks I give..."
         sort = "date"

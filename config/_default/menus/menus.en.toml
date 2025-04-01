@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Coding with ADHD"
-  pageRef = "/posts/adhd"
+  name = "Developing with ADHD"
+  pageRef = "/adhd"
   weight = 20
 
 
