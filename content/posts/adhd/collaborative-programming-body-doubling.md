@@ -88,8 +88,8 @@ from the team.
 (like checking emails, taking a walk, or grabbing a snack.)
 
 - **Prevents getting stuck**: The navigator can help me when I lose focus.  In fact, as the driver, all I need to do is 
-listen and input what I'm being asked.  As the navigator, when I freeze because I'm unsure of next steps, **the rest of 
-the mob helps out** as needed to get me back on track and moving forward.
+listen and input what I'm being asked.  As the navigator, when I freeze because I'm unsure of next steps, **_the rest of 
+the mob helps out_** as needed to get me back on track and moving forward.
 
 - **Switch roles frequently**: This keeps me engaged as we continually change rolls.  The shift from driver to navigator 
 requires me to refocus my thinking, so I never get the distracted/bored feeling of doing the same repetitive task.
@@ -105,7 +105,7 @@ is contextual to the product, or better ways of writing code, is reinforced thro
 ### Tips for ADHD Developers in Mob Sessions
 
 - **Rotate regularly**: Use a strict timer for role rotation to keep engagement high. I find that less than 10 minutes
-is a good time start, although when we do TDD, we often follow:   
+is a good time start, although when we do {{< link "posts/adhd/tdd-adhd-friendly" >}}**TDD**{{< /link >}}, we often follow:   
 Red → Green → Refactor → _Commit_ → _Rotate_
 
 - **Practice Pomodoro**: Use a {{< link pomodoro-technique >}}**Pomodoro timers**{{< /link >}} to take breaks on a regular cadence. I find 25 minutes working, then a 5-minute
