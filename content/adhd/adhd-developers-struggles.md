@@ -2,7 +2,7 @@
 title: 'The ADHD Developer’s Struggles (and How They Show Up at Work)'
 date: 2025-04-02 09:43:26 -0900
 draft: false
-description: My ADHD shows up at work in a number of way, some good, some...  not so good.
+description: My ADHD shows up at work in a number of ways, some good, some...  not so good.
 thumbnail:
   url: /img/developer-struggles.jpg
   author: Fatemeh Rezvani
