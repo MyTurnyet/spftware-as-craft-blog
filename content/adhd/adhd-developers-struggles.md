@@ -17,7 +17,6 @@ tags:
   - Software Development
   - Quality Code
 ---
-
 Being a developer with ADHD can feel like living in two different worlds at the same time. One moment, you’re in a state
 of **hyper-focus**, completely absorbed in solving a problem while hours slip by unnoticed. The next, you’re staring at
 your
