@@ -1,6 +1,6 @@
 ---
 title: 'Discovery Trees: Visible Tasks Tracking for ADHD developers'
-date: 2025-04-22 12:34:26 -0900
+date: 2025-04-10 12:34:26 -0900
 draft: true
 description: How Test-Driven Development helps with cognitive overload, decision paralysis, and debugging distractions.
 thumbnail:
@@ -96,4 +96,4 @@ If you’ve ever felt stuck or overwhelmed by a project, try drawing it out as a
 how much easier it is to start, focus, and finish your work.
 
 In my next post, I’ll explore another ADHD-friendly workflow strategy: 
-**Taming Context Switching—How to Stay Focused When Your Brain Wants to Jump Everywhere**.
+**Neurodiverse friendly teams**
