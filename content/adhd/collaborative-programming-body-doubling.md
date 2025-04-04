@@ -1,6 +1,6 @@
 ---
 title: 'Collaborative Programming: Body Doubling for Developers'
-date: 2025-04-8 09:01:26 -0900
+date: 2025-04-08 09:01:26 -0900
 draft: false
 description: Collaborative work sessions help ADHD developers stay engaged, avoid distractions, and manage complex tasks more effectively
 thumbnail:

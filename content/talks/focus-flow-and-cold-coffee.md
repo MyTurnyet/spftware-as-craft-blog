@@ -37,9 +37,9 @@ powerful asset in tech**.
 
 {{< table class="table-hover" >}}
 
-| Date | Location | Recording Link |
+| Date | Location                                                                        | Recording Link |
 |------------|---------------------------------------------------------------------------------|-----------------------------------------|
-| 2025-04-03 | Iowa .Net Users Group | no recording yet |
+| 2025-04-03 | [Iowa .Net Users Group](https://www.meetup.com/iadnug) | no recording yet |
 
 {{< /table >}}
 
