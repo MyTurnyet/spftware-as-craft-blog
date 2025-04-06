@@ -17,6 +17,7 @@ tags:
   - Software Development
   - Quality Code
   - Test-Driven Development
+
 ---
 
 If you have ADHD, traditional software development workflows can feel overwhelming. Large tasks, vague requirements, and
