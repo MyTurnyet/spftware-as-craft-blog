@@ -4,11 +4,10 @@ date: 2025-04-11 12:34:26 -0900
 draft: false
 description: How Test-Driven Development helps with cognitive overload, decision paralysis, and debugging distractions.
 thumbnail:
-  url: /img/plasma-ball.jpg
-  author: Hal Gatewood
-  authorURL: https://unsplash.com/@halacious
-  originURL: https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4
-  origin: Unsplash
+  url: /img/discovery-trees/window-discovery.jpg
+  author: Paige Watson
+  authorURL: https://softwareascraft.com
+  origin: Discovery Trees at Premera
 
 author: Paige Watson
 tags:
