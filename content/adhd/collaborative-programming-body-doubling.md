@@ -105,7 +105,7 @@ is contextual to the product, or better ways of writing code, is reinforced thro
 ### Tips for ADHD Developers in Mob Sessions
 
 - **Rotate regularly**: Use a strict timer for role rotation to keep engagement high. I find that less than 10 minutes
-is a good time start, although when we do {{< link "posts/adhd/tdd-adhd-friendly" >}}**TDD**{{< /link >}}, we often follow:   
+is a good time start, although when we do {{< link "adhd/tdd-adhd-friendly" >}}**TDD**{{< /link >}}, we often follow:   
 Red → Green → Refactor → _Commit_ → _Rotate_
 
 - **Practice Pomodoro**: Use a {{< link pomodoro-technique >}}**Pomodoro timers**{{< /link >}} to take breaks on a regular cadence. I find 25 minutes working, then a 5-minute
