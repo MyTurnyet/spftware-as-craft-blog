@@ -49,6 +49,7 @@ will get to participate in a simple, but effective example of practices they can
 | 2024-05-09 | [Philly XP](https://www.meetup.com/PhillyXP/events/300473620) | [YouTube](https://youtu.be/L0Jmdo6m8_0) |
 | 2024-05-16 | Agile Manchester 2024 | &nbsp; |
 | 2024-05-16 | Software Crafters Manchester | &nbsp; |
+| 2025-04-09 | SeattleJS | &nbsp; |
 {{< /table >}}
 
 ### Resources
