@@ -6,7 +6,6 @@ description: How Test-Driven Development helps with cognitive overload, decision
 thumbnail:
   url: /img/discovery-trees/window-discovery.jpg
   author: Paige Watson
-  authorURL: https://softwareascraft.com
   origin: Discovery Trees at Premera
 
 author: Paige Watson
