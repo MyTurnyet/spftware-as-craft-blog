@@ -1,6 +1,6 @@
 ---
 title: 'Discovery Trees: Visible Tasks Tracking for ADHD developers'
-date: 2025-04-11 12:34:26 -0900
+date: 2025-04-12 12:34:26 -0900
 draft: false
 description: How Test-Driven Development helps with cognitive overload, decision paralysis, and debugging distractions.
 thumbnail:
