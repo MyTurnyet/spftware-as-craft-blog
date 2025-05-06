@@ -21,9 +21,10 @@
 # Add this section to your params.toml
 [social]
     title = "Software As Craft" # Or use your site title
-    description = "A blog about software craftsmanship" # Add your site description
-    image = "/img/linkedin_logo.png" # Path to your social sharing image
+    description = "Unlike tangible products that can be replicated precisely, quality software development is a dynamic process, requiring the right actions at the right time to produce efficient, bug-free, and extensible code. This process often involves practices from the Extreme Programming framework, such as Test-Driven Development, Paired-Programming, and close interaction with stakeholders and users." # Add your site description
+    image = "/img/logo1280x640.png" # Path to your social sharing image
     ogLocale = "en_US"
+    author = "Paige Watson"
 
 # Open Graph configuration
 [opengraph]
