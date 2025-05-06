@@ -17,7 +17,18 @@
     [main.externalLinks]
         cue = true
         tab = true
+# Social media / Open Graph settings for social sharing
+# Add this section to your params.toml
+[social]
+    title = "Software As Craft" # Or use your site title
+    description = "A blog about software craftsmanship" # Add your site description
+    image = "/img/linkedin_logo.png" # Path to your social sharing image
+    ogLocale = "en_US"
 
+# Open Graph configuration
+[opengraph]
+    enable = true
+    type = "website"
 
 [home]
     sections = ["posts", "adhd", "talks", "workshops"]
