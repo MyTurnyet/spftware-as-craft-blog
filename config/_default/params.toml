@@ -70,7 +70,7 @@
         title = "Developing with ADHD"
         buttonType = "link"
         sort = "date"
-        reverse = true
+        reverse = false
         cols = 3
         color = ""
         padding = "2"
