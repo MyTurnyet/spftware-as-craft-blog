@@ -71,7 +71,7 @@
         buttonType = "link"
         sort = "date"
         reverse = true
-        cols = 4
+        cols = 3
         color = ""
         padding = "2"
         header = "publication"
