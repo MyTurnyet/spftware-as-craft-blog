@@ -38,14 +38,14 @@ powerful asset in tech**.
 {{< table class="table-hover" >}}
 
 | Date | Location                                                                        | Recording Link |
-|------------|---------------------------------------------------------------------------------|-----------------------------------------|
-| 2025-04-03 | [Iowa .Net Users Group](https://www.meetup.com/iadnug) | no recording yet |
+|------------|---------------------------------------------------------------------------------|----------------|
+| 2025-04-03 | [Iowa .Net Users Group](https://www.meetup.com/iadnug) | [YouTube](https://www.youtube.com/watch?v=q2CNYyEETwg)        |
 
 {{< /table >}}
 
 ### Resources
 
-{{< link "https://github.com/MyTurnyet/Talks/blob/main/focus-flow-and-coffee/Focus%2C%20Flow%2C%20and%20Cold%20Coffee.pdf" >}}Slides{{< /link >}} - updated 2025-04-01
+{{< link "https://github.com/MyTurnyet/Talks/blob/main/focus-flow-and-coffee/Focus%2C%20Flow%2C%20and%20Cold%20Coffee.pdf" >}}Slides{{< /link >}} - updated 2025-05-28
 
 ### Links
 
