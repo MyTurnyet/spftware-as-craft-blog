@@ -37,9 +37,10 @@ powerful asset in tech**.
 
 {{< table class="table-hover" >}}
 
-| Date | Location                                                                        | Recording Link |
-|------------|---------------------------------------------------------------------------------|----------------|
+| Date       | Location                                               | Recording Link |
+|------------|--------------------------------------------------------|----------------|
 | 2025-04-03 | [Iowa .Net Users Group](https://www.meetup.com/iadnug) | [YouTube](https://www.youtube.com/watch?v=q2CNYyEETwg)        |
+| 2025-05-05 | [PhillyXP](https://www.meetup.com/phillyxp/events/307822780/)              | [YouTube](https://youtu.be/5sEXqSEswtw?si=dS2xbQadHQkSYbP8&t=16)        |
 
 {{< /table >}}
 
