@@ -1,7 +1,8 @@
 ---
 title: Developing with ADHD
 weight: 10
-
+sort: "date"
+reverse: false
 ---
 
 #### ADHD makes me a better developer
