@@ -4,6 +4,14 @@ description: "Thoughts on how we build software, and the effects on our industry
 cascade:
   type: page
 content_blocks:
+  - _bookshop_name: hero
+    heading:
+      title: "Software As Craft"
+      content: "Thoughts on how we build software, and the effects on our industry."
+    breadcrumb: false
+    background:
+      color: "secondary"
+      subtle: true
   - _bookshop_name: articles
     hide-empty: false
     heading:
