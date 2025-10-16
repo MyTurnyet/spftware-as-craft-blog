@@ -148,7 +148,7 @@
                     {{ $match = index $patterns $args.type }}
                 {{ end }}
 
-                {{ partial "partials/bundle-script.html" (dict 
+                {{ template "partials/bundle-script.html" (dict
                     "page" $args.page
                     "match" $match
                     "destination" (printf "js/%s.bundle.js" $args.type)
@@ -166,7 +166,7 @@
         {{ range $cat, $val := $categories }}
             {{ range $val }}
                 {{ $modconfig := index $config.modules . }}
-                {{ partial "partials/bundle-script.html" (dict 
+                {{ template "partials/bundle-script.html" (dict
                     "page" $args.page
                     "destination" (printf "js/%s.js" .)
                     "cat" $cat
