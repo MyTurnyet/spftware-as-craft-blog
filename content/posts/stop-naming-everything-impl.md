@@ -4,11 +4,11 @@ date: 2025-10-13 07:48:26 -0900
 draft: false
 description: Create interfaces that separate concerns and organize our domain around 'Why'.
 thumbnail:
-  url: /img/sign-contract.jpg
-  author: Cytonn Photography
-  authorURL: https://unsplash.com/@cytonn_photography
-  originURL: https://unsplash.com/photos/person-writing-on-white-paper-GJao3ZTX9gU
-  origin: Unsplash
+  url: /img/interface-code.jpg
+  author: Paige Watson
+  authorURL: https://www.linkedin.com/in/paige-is-xp/
+  originURL: 
+  origin: Software As Craft
 
 author: Paige Watson
 tags:
