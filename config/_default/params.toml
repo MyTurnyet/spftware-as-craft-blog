@@ -4,10 +4,11 @@
     endorse = false
 
     footerBelowFold = true
-    enableDarkMode = true
     enableLanguageSelectionStorage = false
-    modes = ["light", "dark"]
     canonifyAssetsURLs = false
+    [main.colorMode]
+        enabled = true
+        modes = ["light", "dark"]
     loading = "lazy"
     breakpoint = "md"
     [main.internalLinks]
@@ -114,9 +115,10 @@
     fixed = true
     horizontal = false
     offset = "5.5rem"
-    search = true
-    searchModal = false
     breadcrumb = true
+    [navigation.search]
+        enabled = true
+        modal = false
     toc = true
     sidebar = true
     size = "md"
