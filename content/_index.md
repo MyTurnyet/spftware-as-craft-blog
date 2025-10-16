@@ -7,7 +7,7 @@ content_blocks:
   - _bookshop_name: articles
     hide-empty: false
     heading:
-      heading: "Applying our craft..."
+      title: "Applying our craft..."
     input:
       section: posts
       sort: date
@@ -23,7 +23,7 @@ content_blocks:
   - _bookshop_name: articles
     hide-empty: false
     heading:
-      heading: "Developing with ADHD"
+      title: "Developing with ADHD"
     input:
       section: adhd
       sort: date
@@ -39,7 +39,7 @@ content_blocks:
   - _bookshop_name: articles
     hide-empty: false
     heading:
-      heading: "Talks I give..."
+      title: "Talks I give..."
     input:
       section: talks
       sort: date
@@ -55,7 +55,7 @@ content_blocks:
   - _bookshop_name: articles
     hide-empty: false
     heading:
-      heading: "Workshops available..."
+      title: "Workshops available..."
     input:
       section: workshops
       sort: date
