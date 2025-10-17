@@ -1,7 +1,7 @@
 ---
 title: "Compound Interest Works Both Ways: The Hidden Cost of Skipping Craft"
 date: 2025-10-16 07:48:26 -0900
-draft: false
+draft: true
 description: "Every shortcut is a loan against your future velocity, and the interest rate is brutal."
 thumbnail:
 url: /img/interface-code.jpg
