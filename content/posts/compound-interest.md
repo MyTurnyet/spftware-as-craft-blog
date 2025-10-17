@@ -174,9 +174,9 @@ stabilization and paying down technical debt."
 Genuine emergency mode is exceptional. It's not your operating rhythm. It's a deviation from the norm that everyone
 recognizes as unsustainable and temporary.
 
-Perpetual false urgency? It has none of these characteristics. There's no finish line—next quarter is always just as
-urgent. There's no explicit acknowledgment of the trade-offs—cutting corners is just "how we work." There's no recovery
-plan—the debt accumulates indefinitely. It's not exceptional, it's the default.
+Perpetual false urgency? It has _none_ of these characteristics. There's no finish line. Next quarter is always just as
+urgent. There's no explicit acknowledgment of the trade-offs: cutting corners is just "how we work." There's no recovery
+plan, the debt accumulates indefinitely. It's not exceptional, it's the default.
 
 So here's the question you need to ask yourself honestly: Which one describes your organization?
 
@@ -190,7 +190,7 @@ just gotten so accustomed to the compound interest payment that you've forgotten
 
 The trap is that claiming exception status lets you avoid the uncomfortable acknowledgment that you have a choice. As
 long as you believe you're in genuine crisis mode, you can tell yourself that cutting corners is forced upon you. But if
-you're in perpetual false urgency—and most of you are—then you're choosing this. Every day, you're choosing to pay
+you're in perpetual false urgency (_and most of you are_) then you're choosing this. Every day, you're choosing to pay
 compound interest instead of building compound growth.
 
 ## What This Really Means
@@ -261,7 +261,7 @@ compounding disaster.
 
 The fix isn't individual heroics. It's not about developers working harder to "do it right" despite organizational
 pressure. It's not about managers suddenly "getting it" and giving engineering unlimited time. It's about changing the
-system itself—changing what you measure, what you celebrate, and what you incentivize.
+system, changing what you measure, what you celebrate, and what you incentivize.
 
 So here are some questions to ask in your organization. Not to start a fight, but to start a conversation:
 
@@ -285,7 +285,7 @@ faster at shipping features. Building capability that makes the next feature eas
 practices create. That's what you're trading away.
 
 The philosophical shift needed here is fundamental. You need to change what you measure. Stop measuring only feature
-output. Start measuring cycle time trends. Measure unplanned work percentage. Measure time-to-fix for bugs. Measure how
+output. Start measuring cycle time trends. Measure unplanned work percentage. Measure "time-to-fix" for bugs. Measure how
 many times you have to touch a piece of code to get it right. These are leading indicators of technical health.
 
 Change what you celebrate. Stop throwing parties for weekend war rooms. Start recognizing the teams whose releases are
