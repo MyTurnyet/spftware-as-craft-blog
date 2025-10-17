@@ -1,7 +1,7 @@
 ---
 title: "Compound Interest Works Both Ways"
 date: 2025-10-16 07:48:26 -0900
-draft: true
+draft: false
 description: "Every shortcut is a loan against your future velocity, and the interest rate is brutal."
 thumbnail:
   url: /img/street-money-sign.jpg
@@ -303,7 +303,8 @@ organizations, different contexts,
 different practices. What matters is the mindset shift: treating sustainable quality as an investment that generates
 compound returns, not a cost that slows you down.
 
-The specific practices are just implementations of that mindset. The mindset is what changes the trajectory from
+The specific practices are just implementations of that mindset. The min
+dset is what changes the trajectory from
 compound interest working against you to compound interest working for you.
 
 ## The Uncomfortable Truth
