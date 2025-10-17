@@ -48,9 +48,12 @@ brittle? "This code is old, what do you expect?"
 
 The compounding is invisible {{< link "https://c2.com/doc/oopsla92.html" >}}until it becomes catastrophic{{< /link >}}.
 Each "just this once" decision seems perfectly rational in
-isolation. We'll skip writing tests this sprint—we're behind schedule. We'll copy-paste this code instead of refactoring
-the abstraction—it's faster. We'll merge this PR without proper review—the customer is waiting. Every single choice
-makes sense at the moment. But compound interest doesn't care about individual moments. It cares about trajectories.
+isolation. We'll skip writing tests this sprint: we're behind schedule. We'll copy-paste this code instead of refactoring
+the abstraction: it's faster. We'll merge this PR without proper review: the customer is waiting.  
+
+_Every single choice_ makes sense at the moment. But compound interest doesn't care about individual moments. It cares about trajectories.
+
+{{< image src="img/technical-debt.png"  caption="(from https://vincentdnl.com/drawing)" ratio="3x2" image-width="768" class="rounded" >}}
 
 Here's the key insight: companies can't feel technical debt in real-time the way they feel customer churn or cost
 overruns. The credit card sends you a statement every month showing exactly how much you owe. Technical debt has no
@@ -88,9 +91,9 @@ practices are insurance. They prevent problems from happening in the first
 place. But insurance doesn't generate dopamine hits. Nobody celebrates the fire that never started. Nobody throws a
 party for the weekend you didn't have to work.
 
-And here's where it gets insidious: we've created a {{< link "https://en.wikipedia.org/wiki/Perverse_incentive" >
-}}perverse incentive structure{{< /link >}}. Organizations that consistently reward
-visible problem-solving over invisible problem-prevention end up creating a culture that actually needs fires to justify
+And here's where it gets insidious: we've created a {{< link "https://en.wikipedia.org/wiki/Perverse_incentive" >}}
+perverse incentive structure{{< /link >}}. Organizations that consistently reward visible problem-solving over invisible
+problem-prevention end up creating a culture that actually needs fires to justify
 its heroes. Why spend time on thoughtful design when the real career advancement comes from weekend heroics? The system
 literally incentivizes creating the conditions for future emergencies.
 
@@ -155,7 +158,7 @@ that justifies extraordinary measures. The early-stage startup with three months
 The company facing a competitive threat so immediate and severe that failing to respond now means irrelevance. The
 regulatory deadline that will literally shut down your business if you miss it.
 
-These situations are real. They're just extraordinarily rare.
+These situations are real. They're just **_extraordinarily rare_**.
 
 Here's what distinguishes genuine emergency mode from perpetual false urgency: Genuine emergency mode is time-boxed. You
 can point to a specific end date or trigger condition. "We have until the end of Q2 to land this customer, or we're out
@@ -207,6 +210,7 @@ sound like a luxury. The real question is: "Can we afford the exponentially grow
 cost is not optional. You're paying it whether you acknowledge it or not. It shows up as longer development cycles, more
 bugs, more production incidents, more time spent debugging instead of building, and eventually, the complete inability
 to respond to market changes because your codebase is too fragile to modify safely.
+{{< image src="img/too-busy.jpeg"  caption="Too busy to make things better" ratio="16x9" class="rounded" >}}
 
 ### Making the Implicit Explicit
 
