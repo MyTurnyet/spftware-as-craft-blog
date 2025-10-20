@@ -25,6 +25,11 @@
   pageRef = "/workshops"
   weight = 40
 
+[[main]]
+  name = "About Me"
+  pageRef = "/about"
+  weight = 45
+
 [[social]]
   name = "LinkedIn"
   pre = "fab linkedin"
