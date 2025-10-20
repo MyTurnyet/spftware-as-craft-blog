@@ -1,15 +1,6 @@
 ---
 title: About Me
 weight: 45
-content_blocks:
-  - _bookshop_name: hero
-    heading:
-      title: "About Me"
-      content: "Technical Coach helping teams build quality software through Extreme Programming practices, collaborative development, and neurodivergent-supportive environments."
-    breadcrumb: false
-    background:
-      color: "primary"
-      subtle: true
 ---
 
 I'm {{< link "https://www.linkedin.com/in/paige-is-xp/" >}}Paige Watson{{< /link >}}, a Technical Coach who embraces 'Quality Software as Craft' principles. I guide teams in developing well-crafted software solutions designed for maintainability and future growth, while evolving their processes into high-performing, scalable units capable of swiftly delivering top-tier software that meets evolving client needs.
