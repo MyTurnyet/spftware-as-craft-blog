@@ -1,14 +1,14 @@
 ---
 title: 'Mocking Frameworks are Code Smells'
 date: 2025-10-31 07:48:26 -0900
-draft: true
-description: If you need a mocking framework, your design is broken. Learn why mocking frameworks are symptoms of tight coupling and poor architecture.
+draft: false
+description: If you need a mocking framework, your design is broken.
 thumbnail:
-  url: /img/interface-code.jpg
-  author: Paige Watson
-  authorURL: https://www.linkedin.com/in/paige-is-xp/
-  originURL:
-  origin: Software As Craft
+  url: /img/mocking-power.jpg
+  author: Micheal Chiara
+  authorURL: https://unsplash.com/@344digital
+  originURL: https://unsplash.com/photos/a-bird-perches-on-a-tangled-utility-pole-M6ir8WFbFJ8
+  origin: Unsplash
 
 author: Paige Watson
 tags:
@@ -183,7 +183,7 @@ public class UserService {
 Notice: `UserService` has no idea how users are stored. It doesn't know about JDBC, Hibernate, or any database. It just
 knows it can find and save users through the `UserRepository` interface.
 
-Now testing is trivial—no mocking framework needed:
+Now testing is trivial. No mocking framework needed:
 
 ```java
 class FakeUserRepository implements UserRepository {
@@ -298,7 +298,7 @@ Fix the design. Don't mock around it.
 Start by separating concerns. Push external dependencies to the edges. Define clean interfaces that represent what your
 domain needs, not how your infrastructure works. Build your core logic to depend on abstractions, not implementations.
 
-Then write simple test doubles—plain implementations of those interfaces that serve your tests' needs. No frameworks. No
+Then write simple test doubles: plain implementations of those interfaces that serve your tests' needs. No frameworks. No
 magic. Just code.
 
 ### The Challenge
