@@ -1,14 +1,14 @@
 ---
 title: 'No “Time to Learn”'
 date: 2025-11-11 07:48:26 -0900
-draft: true
-description:
+draft: false
+description: The real waste isn’t time spent learning, it’s time spent not learning.
 thumbnail:
-  url: /img/interface-code.jpg
-  author: Paige Watson
-  authorURL: https://www.linkedin.com/in/paige-is-xp/
-  originURL:
-  origin: Software As Craft
+  url: /img/no-time.jpg
+  author: Maximalfocus
+  authorURL: https://unsplash.com/@maximalfocus
+  originURL: https://unsplash.com/photos/there-is-no-time-for-this-neon-sign-JlKOwv9TvaE
+  origin: Unsplash
 
 author: Paige Watson
 tags:
@@ -36,9 +36,8 @@ That’s the heart of the problem.
 
 ## The Production Mindset Trap
 
-Most companies operate under what I call the *production mindset*. It's the belief that software development is a "
-factory
-process" where value is measured in features delivered, tickets closed, or velocity charts trending upward.
+Most companies operate under what I call the *production mindset*. It's the belief that software development is a 
+"factory process" where value is measured in features delivered, tickets closed, or velocity charts trending upward.
 
 Under this mindset, learning is a luxury. If it doesn’t directly move a story from “in progress” to “done,” it’s
 considered waste. Developers are told that learning is an important part of their job. Sometimes that management will
