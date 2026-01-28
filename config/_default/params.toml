@@ -23,7 +23,7 @@
 [social]
     title = "Software As Craft" # Or use your site title
     description = "Unlike tangible products that can be replicated precisely, quality software development is a dynamic process, requiring the right actions at the right time to produce efficient, bug-free, and extensible code. This process often involves practices from the Extreme Programming framework, such as Test-Driven Development, Paired-Programming, and close interaction with stakeholders and users." # Add your site description
-    image = "/img/logo1280x640.png" # Path to your social sharing image
+    image = "/img/saclogo1280x640.png" # Path to your social sharing image
     ogLocale = "en_US"
     author = "Paige Watson"
 
@@ -31,6 +31,17 @@
 [opengraph]
     enable = true
     type = "website"
+    locale = "en_US"
+    images = ["/img/saclogo1280x640.png"]
+
+[schema]
+    type = "Organization"
+    name = "Software As Craft"
+    locale = "en-US"
+    [schema.image]
+        url = "img/saclogo1280x640.png"
+        width = 1280
+        height = 640
 
 [home]
     sections = ["posts", "adhd", "talks", "workshops"]

@@ -1,6 +1,7 @@
 ---
 title: Developing with ADHD
 weight: 10
+thumbnail: /img/plasma-ball.jpg
 images:
   - /img/plasma-ball.jpg
 content_blocks:
