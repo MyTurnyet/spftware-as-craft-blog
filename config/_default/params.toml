@@ -121,7 +121,7 @@
 # toml-docs-start navigation
 [navigation]
     anchor = true
-    logo = "/img/anvil.png"
+    logo = "img/anvil_logo.png"
     color = "body"
     fixed = true
     horizontal = false
@@ -137,7 +137,7 @@
 
 
 [favicon]
-    logo = "/img/anvil.png"
+    logo = "img/anvil_logo.png"
     sizes = [16, 32, 48]
 
 
