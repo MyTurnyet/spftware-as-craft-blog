@@ -104,7 +104,7 @@ independent.
 If so, you've optimized for the system you had, not the system you're building.
 
 **Can you refactor this without a multi-week project?**  
-If not, you've locked yourself into decisions that made sense when context was different, but no do.
+If not, you've locked yourself into decisions that made sense when context was different, but no longer does.
 
 **Does this reduce or increase coordination cost?**  
 The pattern might look elegant on paper, but if it requires three teams to align before shipping a feature, then it's
@@ -118,14 +118,14 @@ Most patterns crumble because they optimize for elegance over adaptability. Or t
 while tomorrow's requirements are already different. Or they look like a "best practices" but those practices
 assume a context you don't actually have.
 
-The uncomfortable truth: the patterns that will crumbled aren't bad decisions when they are made. They were
+The uncomfortable truth: the patterns that will crumble aren't bad decisions when they are made. They were
 reasonable responses to the pressures and advice experienced developers receive. They just won't grow.
 
 ---
 
 ## How Growth Changes Everything
 
-Back at Mercato, the retail POS platform that worked so well for eighteen months hit an inflection point. Not a
+Back at Mercato, the retail POS platform that worked so well for eighteen months, hit an inflection point. Not a
 technical crisis, just **success**.
 
 A major retail chain signed on, and then another. Then investors showed up with growth capital. The founders hired
@@ -193,8 +193,7 @@ Like [compound interest]({{% relref compound-interest %}}) working in reverse.
 Let's start with `PlatformService`.
 
 When the team first built Mercato's checkout flow, they created a service to coordinate everything. It made sense.
-Checking out
-had rules, and those rules needed to live somewhere.
+The `CheckOut` flow had rules, and those rules needed to live somewhere.
 
 ```java
 public class PlatformService {
@@ -275,7 +274,7 @@ methods away. Functional tests took minutes (or hours) to run and broke for unre
 Here's what nobody says out loud: the god service didn't slow delivery _at first_. It accelerated it. That's what made
 it
 dangerous. By the time the pattern became a bottleneck, it was a weight-bearing architecture. Ripping it out would halt
-feature development of new features, in some estimates, for months.
+development of new features, in some estimates, for months.
 
 ### The Organizational Force
 
@@ -386,9 +385,8 @@ public class OnlineOrder extends Order {
 }
 ```
 
-Clean. Each order type overrode the methods that differed. DRY principle were applied. It felt like textbook
-object-oriented
-design.
+Clean. Each order type overrode the methods that differed. DRY principles were applied. It felt like textbook
+object-oriented design.
 
 Then **promotions** arrived.
 
@@ -471,7 +469,7 @@ report said "enterprise orders are wrong." The fix required understanding all th
 `SeasonalPromotionalOrder` passed. Production behavior failed because of interactions between overridden methods.
 
 **Onboarding nightmare:** New developers asked "which calculateTotal() is actually called?"  
-The answer: "Depends on runtime type, and whether seasonal logic is active, and or the customer is an enterprise
+The answer: "Depends on runtime type, and whether seasonal logic is active, and whether the customer is an enterprise
 customer."
 
 Inheritance works when your domain stops evolving. When did **your** domain stop evolving?
@@ -544,14 +542,14 @@ Now pricing is a capability you compose, not a behavior you inherit.
 
 - They added loyalty pricing without touching enterprise logic
 - Pricing strategies were tested independently
-- Combine strategies (promotional + seasonal) was easier without deep inheritance
+- Combining strategies (promotional + seasonal) was easier without deep inheritance
 - Business rules could change independently. Seasonal discount logic didn't risk breaking enterprise contracts
 
 Behavior evolves without hierarchy collapse. New developers read one strategy class instead of tracing through four
 levels of overrides.
 
 > The class hierarchy became a historical record of past product decisions. Composition became a way to adapt to future
-ones.
+> ones.
 
 ---
 
@@ -574,12 +572,14 @@ utilities/
   DiscountCalculator.java
 ```
 
-Each layer had a clear purpose. The architecture diagrams looked professional. Code reviews checked that controllers stayed
+Each layer had a clear purpose. The architecture diagrams looked professional. Code reviews checked that controllers
+stayed
 thin and business logic lived in services.
 
 Then someone needed to implement refunds.
 
 Refund logic touched everything:
+
 - Reverse the payment
 - Recalculate taxes
 - Adjust promotional discounts
@@ -641,7 +641,7 @@ layers and services.
 
 ### Why It Worked Early
 
-Layers felt like organization. Controllers don't talk to databases as a rule. Services don't handle HTTP as a rule.
+Layers felt like organization. As a rule: Controllers don't talk to databases, Services don't handle HTTP.
 Code reviews re-enforced the boundaries.
 
 Leadership liked it. "Our architecture follows industry standards."
@@ -721,6 +721,7 @@ The layers disappeared. Domain boundaries emerged. Teams could modify their area
 > A layered architecture without clear domain seams is just a stack of indirect calls.
 
 ---
+
 ## Pattern #4: Premature Microservices
 
 The team made the split early. "We need to scale, so let's design for it now."
@@ -808,10 +809,11 @@ public class CheckoutOrchestrator {
 
 Looks fine until something fails.
 
-Payment succeeds but inventory reservation fails. Now you need compensating transactions, distributed saga patterns, and 
+Payment succeeds but inventory reservation fails. Now you need compensating transactions, distributed saga patterns, and
 eventual consistency. The simple checkout flow became a distributed systems PhD thesis.
 
-Then debugging got interesting. A checkout failed. Where? Logs were scattered across five services. Trace IDs were lost between
+Then debugging got interesting. A checkout failed. Where? Logs were scattered across five services. Trace IDs were lost
+between
 hops. The Promotions team deployed a breaking API change. Checkout broke in production. The Orders team got paged.
 
 ### Why It Worked Early
@@ -835,7 +837,8 @@ monitoring, separate deployment times. A timeout in `inventory-service` manifest
 the refund fails? Now you need distributed transaction coordinators, sagas, and compensating logic. The 10-line checkout
 method became 200 lines of error handling.
 
-**Testing brittleness:** Integration tests required **five** services to be running. The CI pipelines became flaky. Tests passed
+**Testing brittleness:** Integration tests required **five** services to be running. The CI pipelines became flaky.
+Tests passed
 locally, failed in CI because `promotions-service` was on a different version.
 
 **Operational overhead:** Five deployments instead of one. Five databases to monitor. Five sets of logs. Five on-call
@@ -877,7 +880,7 @@ public class CheckoutService {
 }
 ```
 
-This is not a monolith and not microservices. A service boundary matched how the business thought about checkout.
+This is neither a monolith nor microservices. A service boundary matched how the business thought about checkout.
 
 **What changed:**
 
@@ -891,49 +894,62 @@ The services started as a distributed system. They evolved into a modular monoli
 actually arrived, they extracted the pieces that needed independent scaling—not everything, just the bottlenecks.
 
 > We scaled the architecture before we scaled the problem.
+ ---                                                                                                                                                                                                      
 
----
+## Stepping Back: The Pattern Behind the Patterns
 
-## The Pattern Behind the Patterns
+You've just read about four architectural decisions that looked reasonable, worked for a while, then slowly became
+organizational liabilities. Each pattern failed in its own way: centralized services became bottlenecks, inheritance
+hierarchies became mazes, layers scattered logic, microservices multiplied coordination costs.
+
+But here's what connects them: none of these were obviously bad decisions when they were made. The team that built
+Mercato wasn't inexperienced. They weren't ignoring best practices, they were following them. They made choices that any
+of us might make, given the same context, the same pressures, and the same industry advice.
+
+So why did these patterns crumble? **The answer isn't in the code.**
 
 Four different architectural choices. Same underlying problem.
 
 None of these patterns failed because the developers were inexperienced. The team knew their craft. They followed
 industry advice. They made defensible choices.
 
+### Why these Patterns Failed
+
 The patterns failed because organizational forces pushed them past their breaking point.
 
-### God Services ← Metrics Obsession
+#### God Services ← Metrics Obsession
 
 Leadership measured features per sprint. Modifying `PlatformService` shipped features fast because "everything was in
 one place." Refactoring into cohesive boundaries would look like a sprint with zero user-facing work.
 
 > The metrics rewarded centralization and the architecture followed.
 
-### Inheritance Hierarchies ← DRY Obsession
+#### Inheritance Hierarchies ← DRY Obsession
 
 Code reviews flagged duplication. "We calculate pricing in three places. Use inheritance." The team eliminated
 duplication without asking whether it was accidental or essential.
 
 > The process rewarded eliminating duplication. The architecture mirrored the code review culture.
 
-### Layered Tangles ← Cargo-Cult Structure
+#### Layered Tangles ← Cargo-Cult Structure
 
 Enterprise consultants pushed layered architecture templates. "This is how professional systems look." Code reviews
 enforced layer separation without asking whether layers matched how the business thought about features.
 
 > The team measured professionalism by adherence to structure. The architecture became performative.
 
-### Premature Microservices ← Scaling Fear
+#### Premature Microservices ← Scaling Fear
 
 Leadership heard "Netflix uses microservices" and made it architecture policy. Conferences pushed distributed systems as
 best practice. Nobody asked whether Mercato's scale justified the operational cost.
 
 > The industry signaled that microservices meant maturity. The architecture chased credibility.
 
-### The Meta-Pattern
+---
 
-[Technical debt]({{% relref compound-interest %}}) is organizational debt wearing a compiler-approved disguise.
+## The Meta-Pattern
+
+> [Technical debt]({{% relref compound-interest %}}) is organizational debt wearing a compiler-approved disguise.
 
 The patterns crumbled because:
 
@@ -956,7 +972,7 @@ The inheritance hierarchy didn't fail when code reviews praised it. It failed wh
 and DRY culture prevented untangling.
 
 The layered architecture didn't fail when consultants recommended it. It failed when features cut across layers and
-_layer-purity_ rules prevented vertical workflows.
+"layer-purity" rules prevented vertical workflows.
 
 The microservices split didn't fail at launch. It failed when coordination costs exceeded any scaling benefit and
 sunk-cost fallacy prevented consolidation.
@@ -969,14 +985,15 @@ sunk-cost fallacy prevented consolidation.
 
 **If code reviews enforce rules without understanding context**, teams will follow structure over domain clarity.
 
-**If leadership measures output without understanding coordination costs**, teams will build around architectural friction
+**If leadership measures output without understanding coordination costs**, teams will build around architectural
+friction
 instead of fixing it.
 
 The patterns that grow aren't just technical choices. They're technical choices aligned with organizational learning.
 
 ---
 
-## What Actually Scales
+## Patterns for Scaling
 
 You've seen the alternatives threaded through each pattern. Here's why they work.
 
@@ -1003,7 +1020,7 @@ public class CheckoutService {
 }
 ```
 
-**Why it grows:**
+**Why it scales:**
 
 - Swap Stripe for Square without touching checkout logic
 - Test checkout without network calls, instead inject a fake gateway
@@ -1026,7 +1043,7 @@ Order order = new Order(loyalty);
 
 Behavior stacks. You can combine seasonal + loyalty without creating `SeasonalLoyaltyPromotionalOrder`.
 
-**Why it grows:**
+**Why it scales:**
 
 - Add capabilities without modifying the existing classes
 - Test all strategies independently
@@ -1058,14 +1075,14 @@ promotions/
 
 Teams own features, not layers.
 
-**Why it grows:**
+**Why it scales:**
 
 - Promotions team changes discount logic without touching checkout
 - Refund features stay in one place and are easier to understand
 - Reduce coordination costs as changes stay local
 - New developers understand features, not layers
 
->Vertical slices align code with how the business thinks.
+> Vertical slices align code with how the business thinks.
 
 ### Explicit Domain Models
 
@@ -1106,7 +1123,7 @@ public class Order {
 }
 ```
 
-**Why it grows:**
+**Why it scales:**
 
 - Intent is visible in code: `order.applyDiscount()` instead of `orderService.applyDiscount(order)`
 - Behavior stays cohesive: discount logic lives with order logic
@@ -1136,7 +1153,7 @@ class CheckoutWorkflow implements CheckoutService {
 Modules can *become* services when scale demands it. But you don't have to pay the coordination cost until you need
 independent scaling.
 
-**Why it grows:**
+**Why it scales:**
 
 - Boundaries are clear without network overhead
 - Modules can extract to services later, if needed
@@ -1144,6 +1161,7 @@ independent scaling.
 - Refactoring stays local. Change are made to module internals without affecting callers
 
 > Start with boundaries. Split services when scale demands it, not before.
+---
 
 ### Evolutionary Architecture
 
@@ -1163,10 +1181,10 @@ Tests fail if these boundaries erode.
 **Rotating Ownership:** Move developers between teams periodically. Break knowledge silos and reveals where boundaries
 aren't clear.
 
-**Contract Tests:** Define module interfaces. Tests should fail if internal changes break contracts. Safe refactoring 
-can be done with confidence.
+**Contract Tests:** Define module interfaces. Tests should fail if internal changes break contracts. Refactor Safely
+with confidence.
 
-### The Real Difference
+#### The Real Difference
 
 These patterns aren't "better" in some absolute sense. They're better at tolerating change.
 
@@ -1277,7 +1295,8 @@ The patterns that crumbled at "_Mercato_" weren't unique. You've seen them. Mayb
 whether you've made these choices, it's whether you're still defending them.
 
 Architecture isn't something you get right once. It's something you evolve continuously. The best systems aren't
-elegant, they're adaptable. The best teams aren't the ones that avoid mistakes, they're the ones that learn from them fast
+elegant, they're adaptable. The best teams aren't the ones that avoid mistakes, they're the ones that learn from them
+fast
 enough to matter.
 
 If your architecture looks the same as it did three years ago, what does that say about your organization's capacity to
