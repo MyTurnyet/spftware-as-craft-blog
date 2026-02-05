@@ -18,11 +18,21 @@ tags:
   - Code
 ---
 
+**TLDR;**  
+_Four architectural patterns look like good decisions when teams are small but crumble as organizations grow:
+centralized "god services" become bottlenecks, inheritance hierarchies become mazes, layered architectures
+scatter logic, and premature microservices multiply coordination costs. The problem isn't the patterns
+themselves, it's organizational forces (velocity metrics, DRY obsession, cargo-cult best practices, scaling fear) that
+push them past their breaking point. This post explores why experienced teams make these choices, how the patterns
+quietly evolve from helpful structures to liabilities, and what actually scales: composition over inheritance, vertical
+slices over layers, explicit boundaries over premature splitting, and evolutionary architecture over one-time "right"
+decisions._
+
 ## The System That Worked... Until It Didn't
 
-*Before we dive in: **Mercato** (the company used in this blog post) isn't real. It's a composite example based on
+_Before we dive in: **Mercato** (the company used in this blog post) isn't real. It's a composite example based on
 patterns I've seen across many organizations. The architectural challenges and organizational dynamics, however, are
-very real.*
+very real._
 
 Six experienced Java developers built a retail POS platform the "right" way. Clean layered architecture. Service objects
 that coordinated business logic. Inheritance hierarchies eliminating duplication. An early microservices split to
@@ -58,7 +68,7 @@ sprint, velocity, and deployment frequency all stayed steady, but the team felt 
 During yet another coordination meeting about holiday promotional pricing, someone said it:
 > "When did this architecture stop helping us and start fighting us?"
 
-The question hung there, because nothing was *obviously wrong*. Most of it still looked like industry best practices.
+The question hung there, because nothing was _obviously wrong_. Most of it still looked like industry best practices.
 The
 patterns hadn't failed immediately, they succeeded long enough to become entrenched. They just weren't built to grow
 with the system or the organization around it.
@@ -432,7 +442,7 @@ public class EnterprisePromotionalOrder extends PromotionalOrder {
 
 Six months in, the hierarchy looked like this:
 
-```
+```text
 Order
   ├── RetailOrder
   ├── OnlineOrder
@@ -558,7 +568,7 @@ levels of overrides.
 The team followed the standard playbook: Controllers handle HTTP, Services handle business logic, Repositories handle
 data access.
 
-```
+```text
 controllers/
   RefundController.java
 services/
@@ -894,7 +904,8 @@ The services started as a distributed system. They evolved into a modular monoli
 actually arrived, they extracted the pieces that needed independent scaling—not everything, just the bottlenecks.
 
 > We scaled the architecture before we scaled the problem.
- ---                                                                                                                                                                                                      
+
+---
 
 ## Stepping Back: The Pattern Behind the Patterns
 
@@ -1056,7 +1067,7 @@ Behavior stacks. You can combine seasonal + loyalty without creating `SeasonalLo
 
 Instead of organizing by technology layer, organize by business capability.
 
-```
+```text
 checkout/
   CheckoutWorkflow.java
   PricingEngine.java
@@ -1150,7 +1161,7 @@ class CheckoutWorkflow implements CheckoutService {
 }
 ```
 
-Modules can *become* services when scale demands it. But you don't have to pay the coordination cost until you need
+Modules can _become_ services when scale demands it. But you don't have to pay the coordination cost until you need
 independent scaling.
 
 **Why it scales:**
