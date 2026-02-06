@@ -4,10 +4,10 @@ date: 2026-03-27 13:01:26 -0900
 draft: true
 description: Traditional career advancement paths privilege neurotypical traits and narrow definitions of success. For ADHD developers, the ceiling isn't about capability—it's about a mismatch between how we work best and what advancement typically requires.
 thumbnail:
-  url: /img/plasma-ball.jpg
-  author: Hal Gatewood
-  authorURL: https://unsplash.com/@halacious
-  originURL: https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4
+  url: /img/multiple-paths.jpg
+  author: Tara Scahill
+  authorURL: https://unsplash.com/@yellowumbrellamedia
+  originURL: https://unsplash.com/photos/an-aerial-view-of-a-grassy-area-with-a-white-building-4muedZU3eP0
   origin: Unsplash
 
 author: Paige Watson
@@ -231,42 +231,38 @@ value in connecting silos.
 What if your expertise was built through collaboration rather than solo deep work?
 
 In mob or ensemble programming, the team works together on the same problem simultaneously. Knowledge sharing is
-built-in, not an add-on. You're always learning from others while contributing your own perspective.
+built-in, not an add-on. You're always learning from others while contributing your own perspective. For ADHD
+developers, this creates exactly the kind of external structure we thrive on—body doubling effects help with focus,
+immediate feedback prevents rabbit holes, and the collaborative environment lets creative connections shine.
 
-**ADHD strengths**: External structure from collaboration keeps you on track. Body doubling effects help with focus and
-motivation. Immediate feedback prevents going down rabbit holes. Your ability to make creative connections shines in
-group problem-solving.
+When I work with teams that practice ensemble programming, I see ADHD developers light up in ways they never did working
+solo. The constant engagement, the shared cognitive load, the way the team keeps you from getting stuck is
+transformative.
 
-**What makes this viable**: Teams and organizations that adopt ensemble programming as their standard practice, not just
-an occasional technique.
-
-**For individuals**: Seek out teams where ensemble or pair programming is the norm. Ask about collaboration practices in
-interviews. Find the mob programming community.
-
-**For leaders**: Recognize that collaborative mastery is still mastery. Someone who excels in mob programming is
-bringing **enormous value** even if they're not the solo architect type.
+If you're exploring this path, seek out teams where pair or mob programming is the norm, not an exception. Ask about
+collaboration practices in interviews. Connect with the mob programming community. And if you're a leader, recognize
+that someone who excels in collaborative work is bringing enormous value even if they're not the solo architect type.
+Organizations that adopt ensemble programming as standard practice create space for this path to thrive.
 
 ### The Problem-Solver / Firefighter
 
 What if you're the person who thrives in chaos?
 
 Some ADHD developers do their best work under pressure. They love jumping into crisis situations, novel problems, and
-situations that others find overwhelming. They're the emergency responders of software development.
+situations that others find overwhelming. They're the emergency responders of software development. Hyperfocus under
+pressure is real. Crisis energy becomes productive energy. The ability to think creatively when everything's on fire is
+genuinely rare and valuable.
 
-Consulting, incident response, technical troubleshooting, pre-sales engineering—these roles reward people who can
-quickly assess complex situations and find solutions fast.
+I know a consultant with ADHD who describes their ideal day as "five different client problems, all urgent, all
+requiring creative solutions." What sounds exhausting to most people is their sweet spot. They can assess complex
+situations quickly, context-switch between different client environments, and find solutions under tight deadlines.
+They're brilliant at it, and perpetually bored during steady-state maintenance work.
 
-**ADHD strengths**: Hyperfocus under pressure is real. Crisis energy can be productive energy. Your ability to think
-creatively when the chips are down is genuinely rare.
-
-**What makes this viable**: Organizations that need rapid response and crisis management. Consulting firms that value
-generalists who can parachute into any situation.
-
-**For individuals**: Your ability to focus in chaos isn't a weird quirk. It's a valuable skill. Find roles that put you
-where the action is.
-
-**For leaders**: Value the people who thrive when things are broken. Don't penalize them for getting bored during
-steady-state operations.
+Consulting, incident response, technical troubleshooting, pre-sales engineering: these roles need what you have. If this
+sounds like you, stop apologizing for getting bored during quiet periods. Your ability to focus in chaos isn't a weird
+quirk, it's a valuable skill that organizations desperately need. Find roles that put you where the action is. And
+leaders: recognize and value the people who thrive when things are broken, rather than penalizing them for struggling
+with routine operations.
 
 ### The Craft Practitioner
 
@@ -291,11 +287,13 @@ investing in learning better techniques. I could create space for teams to work 
 it.
 
 But I didn't choose management. I chose to move to a Technical Coach role, to spread knowledge on the craft itself.
+
 Because for me, the work is in the doing. Writing tests, pairing with teammates, refactoring toward cleaner code,
 mentoring through collaboration rather than oversight. The dopamine hits come from seeing tests pass, from solving
-problems together, from continuous learning without narrow specialization. That's where I thrive, and that's the
-influence I can have: one team,
-one collaborative session, one conference talk at a time.
+problems together, from continuous learning without narrow specialization.
+
+That's where I thrive, and that's the influence I can have: one team, one collaborative session, one conference talk at
+a time.
 
 **ADHD strengths**: Passion-driven work sustains motivation. Continuous learning without narrow specialization keeps
 things interesting. Hands-on creation provides regular dopamine hits.
@@ -310,17 +308,15 @@ for excellent technical work.
 **For leaders**: Create paths where technical excellence is rewarded without requiring people to become architects or
 managers. Recognize that a master craftsperson is providing immense value.
 
-### Other Valid Paths
+### And Many More
 
-The list doesn't end here. Consider:
+These five patterns are starting points, not an exhaustive list. I've also seen ADHD developers thrive as technical
+writers and educators (teaching rather than building), as contractors and freelancers (controlling their own schedule
+and variety), and as part-time developers who intentionally prioritize other life commitments. Some are serial
+hobbyists who bring fresh ideas from outside tech into their development work.
 
-- The serial hobbyist who brings fresh ideas from outside tech into their work
-- The technical writer or educator who teaches rather than builds
-- The part-time developer who prioritizes other life commitments and projects
-- The contractor or freelancer who controls their own schedule and variety
-
-**The key point**: There are many ways to have a successful career in software. The traditional ladder is just one
-option.
+The key point: there are many ways to have a successful career in software. The traditional ladder is just one option,
+and often not the best one for ADHD developers.
 
 ## Making Alternative Paths Real
 
@@ -334,17 +330,43 @@ you energized and which leave you exhausted. The patterns will show you your pat
 **Experimentation**: Try different types of work and teams. Can you join a mob programming team for a few months? Can
 you take on a cross-functional project? Treat your career as an experiment.
 
-**Communication**: Talk to your manager honestly about what you want and don't want.
-> "I'd like to focus on hands-on
-> technical work rather than pursuing management."
+**Communication**: Talk to your manager honestly about what you want and don't want. In your next 1:1, try something
+like:
 
-This is a valid conversation. This is an important conversation.
+> "I've been thinking about my career path. I'd like to focus on hands-on technical work and cross-team collaboration
+> rather than pursuing people management. Can we talk about what that could look like here?"
 
-**Job crafting**: Can you shape your current role toward your strengths? Maybe you can specialize in incident response,
-or focus on being the generalist bridge between teams.
+Or if you're already being nudged toward management:
 
-**Job hunting**: Look for organizations with diverse career frameworks. Ask about career paths in interviews. Seek
-companies that value different types of contribution.
+> "I appreciate that you see management potential in me, but I've realized that's not the direction I want to go. I'm
+> most energized by [writing code/solving technical problems/teaching through pairing]. Is there a path here where I can
+> grow in compensation and impact without moving into people management?"
+
+This is a valid conversation. This is an important conversation. You're not rejecting growth. You're defining what
+growth means for you.
+
+**Job crafting**: Can you shape your current role toward your strengths? Here are some specific ways:
+
+- Volunteer to be the "incident response specialist" if you thrive under pressure
+- Propose running a weekly mob programming session if collaboration energizes you
+- Offer to be the bridge between frontend and backend teams if you're a generalist
+- Start a "Developer Learning Hour" to teach practices you're passionate about
+- Ask to focus on one product area if you need sustained focus rather than constant context-switching
+
+The key is identifying what energizes you, then finding a legitimate business need that matches.
+
+**Job hunting**: Look for organizations with diverse career frameworks. In interviews, ask specific questions like:
+
+- "What does career progression look like for someone who wants to stay hands-on technical?"
+- "Do you have people who've been at the same level for 5+ years? How are they valued and compensated?"
+- "What's your approach to pair or mob programming?"
+- "How do you recognize and reward different types of contributions, not just individual heroics?"
+
+Red flags: Companies where everyone at senior+ levels manages people, or where "career development" only means upward
+movement.
+
+Green flags: Multiple career ladders documented and visible, people speaking enthusiastically about non-traditional
+paths, compensation transparency.
 
 **Community**: Find others on similar paths. Mob programming communities, ADHD developer groups, and online forums can
 provide validation, ideas, and support.
