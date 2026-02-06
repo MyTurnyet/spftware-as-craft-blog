@@ -1,8 +1,8 @@
 ---
 title: 'The ADHD Developer''s Career Ceiling'
-date: 2026-03-27 13:01:26 -0900
-draft: true
-description: Traditional career advancement paths privilege neurotypical traits and narrow definitions of success. For ADHD developers, the ceiling isn't about capability—it's about a mismatch between how we work best and what advancement typically requires.
+date: 2026-02-05 12:01:26 -0900
+draft: false
+description: Traditional career advancement paths privilege neurotypical traits and narrow definitions of success. For ADHD developers, the ceiling isn't about capability, it's about a mismatch between how we work best and what advancement typically requires.
 thumbnail:
   url: /img/multiple-paths.jpg
   author: Tara Scahill
