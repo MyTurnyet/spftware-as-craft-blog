@@ -71,7 +71,7 @@ This talk is valuable for:
 
 ### Resources
 
-{{< link "https://github.com/MyTurnyet/compound-interest-presentation" >}}Slide deck{{< /link >}} - HTML presentation
+{{< link "https://myturnyet.github.io/compound-interest-presentation/" >}}Slide deck{{< /link >}} - HTML presentation
 with speaker notes
 
 ### Related Content
