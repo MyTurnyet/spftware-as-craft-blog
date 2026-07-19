@@ -50,7 +50,7 @@ will get to participate in a simple, but effective example of practices they can
 | 2024-05-16 | [Agile Manchester 2024](https://agilemanchester.net/) | &nbsp; |
 | 2024-05-16 | [Software Crafters Manchester](https://www.meetup.com/software-crafters-manchester/events/300520387/?notificationId=1370299017445380096) | &nbsp; |
 | 2025-04-09 | [SeattleJS](https://seattlejs.com/) | &nbsp; |
-| 2026-07-27 | [PMIAgile 2026]([https://seattlejs.com/](https://events.pmi.org/flow/pmi/pmiagile26/sessioncatalog/page/sessions/session/1784349711836001E2rV)) | &nbsp; |
+| 2026-07-27 | [PMIAgile 2026](https://events.pmi.org/flow/pmi/pmiagile26/sessioncatalog/page/sessions/session/1784349711836001E2rV) | &nbsp; |
 {{< /table >}}
 
 ### Resources
