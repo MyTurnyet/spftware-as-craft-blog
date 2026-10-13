@@ -44,7 +44,9 @@ powerful asset in tech**.
 | 2025-06-27 | [Seattle Code Crafters](https://www.meetup.com/seattle-software-craftsmanship/events/305869154/?eventOrigin=group_events_list)                  | No recording                                                     |
 | 2025-07-16 | [Tek Caffe](https://www.linkedin.com/company/tek-caffe/posts/?feedView=all)                                                                     | [YouTube](https://www.youtube.com/live/H536Vh0Qku4)              |
 | 2025-10-15 | [Agile Mentors Podcast](https://www.mountaingoatsoftware.com/agile/podcast/162-focus-flow-cold-coffee-and-the-adhd-developer-with-paige-watson) | [Podcast Episode](https://www.mountaingoatsoftware.com/agile/podcast/162-focus-flow-cold-coffee-and-the-adhd-developer-with-paige-watson)      |
-| 2026-07-28 | [PMIAgile 2026](https://events.pmi.org/flow/pmi/pmiagile26/sessioncatalog/page/sessions/session/1779123054916001qhzM)      | &nbsp; |
+| 2026-07-28 | [PMIAgile 2026](https://events.pmi.org/flow/pmi/pmiagile26/sessioncatalog/page/sessions/session/1779123054916001qhzM)      | No recording |
+| 2026-10-06 | Copenhagen Rotary Club       | No recording |
+| 2026-07-28 | [Regional Scrum Gathering: Brussels 2026](https://www.rsgbrussels26.com/)      | No recording |
 
 {{< /table >}}
 
