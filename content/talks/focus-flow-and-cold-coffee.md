@@ -47,6 +47,7 @@ powerful asset in tech**.
 | 2026-07-28 | [PMIAgile 2026](https://events.pmi.org/flow/pmi/pmiagile26/sessioncatalog/page/sessions/session/1779123054916001qhzM)      | No recording |
 | 2026-10-06 | Copenhagen Rotary Club       | No recording |
 | 2026-07-28 | [Regional Scrum Gathering: Brussels 2026](https://www.rsgbrussels26.com/)      | No recording |
+| 2026-11-12 | [PMI Agile Alliance](https://agilealliance.org/resources/sessions/focus-flow-and-cold-coffee-adhd-driven-development-practices/)  | Members only recording|                                                                                                                                                 |                                                                  |
 
 {{< /table >}}
 
